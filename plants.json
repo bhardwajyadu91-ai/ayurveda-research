@@ -1923,7 +1923,7 @@
       "guna": "Tīksṇa, Laghu, Rūksa",
       "virya": "Usṇa",
       "vipaka": "Kaṭu",
-      "karma": "Jvarāpaha, Caksusya, Kusṭhaghna, Kaṇdūghna, Kṛmighna, Vraṇāpaha, Śvāsahara, (Prabhāva: Hṛdya)"
+      "karma": "Jvarāpaha, Caksusya, Kusṭhaghna, Kaṇdūghna, Kṛmighna, Vraṇāpaha, Śvāsahara, Prabhāva-Hṛdya"
     },
     "important_formulations": "Kāsīsādi Taila",
     "therapeutic_uses": "Jvara, Vraṇa, Kusṭha, Kaṇdū, Kṛmiroga, Netraroga, Tamakasvāsa, Hṛdroga",
@@ -2772,7 +2772,7 @@
       "guna": "Rūksa, Guru",
       "virya": "Śīta",
       "vipaka": "Kaṭu",
-      "karma": "(Prabhāva: Mohakṛt), Dīpana, Kaphapittajit, Kledanāsana, Malabhedī, Mukhasodhana, Vikāsī"
+      "karma": "Prabhāva-Mohakṛt, Dīpana, Kaphapittajit, Kledanāsana, Malabhedī, Mukhasodhana, Vikāsī"
     },
     "important_formulations": "Pūgakhaṇda",
     "therapeutic_uses": "Mukhavikāra, Aruci, Yonisaithilya, Śvetapradara",
@@ -3667,7 +3667,7 @@
       "guna": "Laghu, Tīksṇa",
       "virya": "Usṇa",
       "vipaka": "Kaṭu",
-      "karma": "Dīpana, Pācana, Grāhī, Kaphahara, Vājīkara, Vākvardhana, Nidrājanana, Vyavāyī, (Prabhāva: Madakāri)"
+      "karma": "Dīpana, Pācana, Grāhī, Kaphahara, Vājīkara, Vākvardhana, Nidrājanana, Vyavāyī, Prabhāva-Madakāri"
     },
     "important_formulations": "Jātīphalādi Cūrṇa, Madanānanda Modaka",
     "therapeutic_uses": "Agnimāndya, Atīsāra, Grahaṇīroga, Klaibya, Anidrā",
@@ -5126,7 +5126,7 @@
       "guna": "Sara, Usṇa, Tīksṇa",
       "virya": "Usṇa",
       "vipaka": "Kaṭu",
-      "karma": "Vātahara, Kaphahara, Vāmaka, Virecaka, Śirovirecanopaga, Dīpana, (Prabhāva : Medhya)"
+      "karma": "Vātahara, Kaphahara, Vāmaka, Virecaka, Śirovirecanopaga, Dīpana, Prabhāva-Medhya"
     },
     "important_formulations": "Smṛtisāgara Rasa, Jyotismatī Taila",
     "therapeutic_uses": "Vātavyādhi, Smṛtidaurbalya, Śvitra",
@@ -5176,7 +5176,7 @@
       "karma": "Vātahara, Pittahara, Vraṇaropaṇa, Vedanāsthāpana"
     },
     "important_formulations": "Nygrodhādi Kvātha Cūrṇa, Grahaṇīmihira Taila",
-    "therapeutic_uses": "Dāha, Yonidosa, Vraṇa, Raktapitta, Visavraṇa (DaÆsaja Vraṇa)",
+    "therapeutic_uses": "Dāha, Yonidosa, Vraṇa, Raktapitta, Visavraṇa",
     "dose": "0.5 - 1.5 g of the drug in powder form.",
     "plant_family": "Rubiaceae",
     "plant_subfamily": "Cinchonoideae"
@@ -5310,14 +5310,14 @@
     },
     "constituents": "Citric acid and Mucilage.",
     "properties_action": {
-      "rasa": "Madhura, Amla, Kasāya, / Unripe Pulp: Amla, Kasāya",
-      "guna": "Laghu, / Unripe Pulp: Guru",
-      "virya": "Śīta, / Unripe Pulp: Usna",
-      "vipaka": "Madhura, / Unripe Pulp: Amla",
-      "karma": "Vṛsya, Pittavātahara, Sa´grāhī, Vraṇanāsaka, / Unripe Pulp: Kaphaghna, Lekhana, Grāhī, Vātala"
+      "rasa": "Madhura, Amla, Kasāya",
+      "guna": "Laghu",
+      "virya": "Śīta",
+      "vipaka": "Madhura",
+      "karma": "Vṛsya, Pittavātahara, Samgrāhī, Vraṇanāsaka, Kaphaghna, Lekhana, Grāhī, Vātala"
     },
     "important_formulations": "Kapitthāsṭaka Cūrṇa, Yavānyādi Cūrṇa",
-    "therapeutic_uses": "Ripe- Tṛsṇā, Hikkā, Śvāsa, Vami, Unripe- Grahaṇī Roga, Agnimāndya",
+    "therapeutic_uses": "Tṛsṇā, Hikkā, Śvāsa, Vami,Grahaṇī Roga, Agnimāndya",
     "dose": "1-3 g of the drug in powder form.",
     "plant_family": "Rutaceae",
     "plant_subfamily": "Aurantioideae"
@@ -7053,7 +7053,7 @@
       "guna": "Laghu, Rūksa, Tīksṇa",
       "virya": "Usṇa",
       "vipaka": "Kaṭu",
-      "karma": "Vātahara, Kaphahara, Rocaka, Dīpanī, Mukhasodhaka, A´gamardaprasamana"
+      "karma": "Vātahara, Kaphahara, Rocaka, Dīpanī, Mukhasodhaka, Angamardaprasamana"
     },
     "important_formulations": "Sārivadyāsava, Karpūrādyārka, Kalyāṇaka Ghṛta, Vastyāmayāntaka Ghṛta, Mānasamitra Vaṭaka",
     "therapeutic_uses": "Śvāsa, Kāsa, Tṛsṇā, Chardi, Mukharoga, Hṛllāsa, Kaṇdū",
@@ -7339,7 +7339,7 @@
       "karma": "Vātahara, Pittahara, Stanyada, Śukrala, Mūtrala, Jīvanīya, Rasāyana, BṛÆhaṇīya, Svarya, Varṇya, Balya"
     },
     "important_formulations": "Vidāryādikvātha Cūrṇa, Vidāryādi Ghṛta, Marma Guṭikā, Manmathābhra Rasa, Pūgakhaṇda (AparaṚ)",
-    "therapeutic_uses": "Dāha, Raktapitta, A´gamarda, Daurbalya, Śosa",
+    "therapeutic_uses": "Dāha, Raktapitta, Angamarda, Daurbalya, Śosa",
     "dose": "3-6 g of the drug in powder form.",
     "plant_family": "Fabaceae",
     "plant_subfamily": "Faboideae"
@@ -8185,7 +8185,7 @@
       "karma": "Vātakara, Pittahara, Atirucya, Lekhana, Stambhana, Vibandhādhmānakara, Chardikara"
     },
     "important_formulations": "Vastyāmayāntaka Ghṛta",
-    "therapeutic_uses": "Kāsa, Śvāsa, Jvara, Raktavikāra, Dāha , Śopha, Pāṇdu",
+    "therapeutic_uses": "Kāsa, Śvāsa, Jvara, Raktavikāra, Dāha, Śopha, Pāṇdu",
     "dose": "3-6 g of the drug in powder form 5-10 ml (Svarasa)",
     "plant_family": "Cucurbitaceae",
     "plant_subfamily": "Cucurbitoideae"
@@ -8972,7 +8972,7 @@
       "karma": "Śirovirecana, Caksusya"
     },
     "important_formulations": "Jātyādi Taila, Jātyādi Ghṛta, Vasanta Kusumākara Rasa",
-    "therapeutic_uses": "Śiroroga, Aksiroga, Visaroga, Kusṭha , Vraṇa, Arsa, Mukhapāka, Pūtīkarṇa, Stana Śotha, Raktavikāra",
+    "therapeutic_uses": "Śiroroga, Aksiroga, Visaroga, Kusṭha, Vraṇa, Arsa, Mukhapāka, Pūtīkarṇa, Stana Śotha, Raktavikāra",
     "dose": "10-20 g of powder for decoction",
     "plant_family": "Oleaceae",
     "plant_subfamily": "Oleoideae"
@@ -10093,7 +10093,7 @@
       "karma": "Visahara, Vātaslesmahara, Hṛdya, Vahnidīpana, Kaṇṭhya, Grāhī, Kaphavātahara, Garbhāsayasa´kocaka, Kaphanissāraka, Mūtrala, Pācaka, Vātānulomana, Mṛdurecaka"
     },
     "important_formulations": "Sarspādi Lepa",
-    "therapeutic_uses": "Gulma, Hṛdroga, Kaṇṭha Roga, Sidhmakusṭha , Jvara, Śvāsa, Nāsikā Roga, Aksi Roga, Anārtava",
+    "therapeutic_uses": "Gulma, Hṛdroga, Kaṇṭha Roga, Sidhmakusṭha, Jvara, Śvāsa, Nāsikā Roga, Aksi Roga, Anārtava",
     "dose": "1-3 g of the drug in powder form.",
     "plant_family": "Brassicaceae",
     "plant_subfamily": "N/A"
@@ -11122,7 +11122,7 @@
       "guna": "Guru",
       "virya": "Usṇa",
       "vipaka": "Madhura",
-      "karma": "Tridosahara, Balya, A´gamardaprasamana, Vṛsya, Sukhaprasavakara, Sarvadosahara, Vātadosajit, Rasāyanī, Bhramahara, Visahara, Santāpanāsinī"
+      "karma": "Tridosahara, Balya, Angamardaprasamana, Vṛsya, Sukhaprasavakara, Sarvadosahara, Vātadosajit, Rasāyanī, Bhramahara, Visahara, Santāpanāsinī"
     },
     "important_formulations": "Dasamūlārisṭa, Indukānta Ghṛta, Amṛtaprāsa Ghṛta, Dasamūlasaṭpalaka Ghṛta, Dhānvantara Taila, Nārāyaṇa Taila, Mahā Visagarbha Taila, Mahā Nārāyaṇa Taila",
     "therapeutic_uses": "Jvara, Meha, Arsa, Chardi, Śopha, Śvāsa, Kāsahara, Kṛmi, Rājayaksmā, Netra Roga, Hṛdaya Roga, Raktagata Vāta, Vāta Ardhvābhedaka, Mūdha Garbha",
@@ -11264,7 +11264,7 @@
       "karma": "Vātahara, Kaphahara, Pittahara, Garbha Anulomaka, Vāntikṛt, Rakta Pravartaka"
     },
     "important_formulations": "Sarsapādi Pralepa, Dasamūlādya Ghṛta, Muktādya Cūrṇa, Kulatthādya Ghṛta",
-    "therapeutic_uses": "Agnimāndya, Jvara, Hṛdroga, Mukharoga, Raktadosa, Carma Roga, Timira, A´gamarda, Garbhasrāvakara",
+    "therapeutic_uses": "Agnimāndya, Jvara, Hṛdroga, Mukharoga, Raktadosa, Carma Roga, Timira, Angamarda, Garbhasrāvakara",
     "dose": "1-3 g of the drug in powder form.",
     "plant_family": "Fabaceae",
     "plant_subfamily": "Faboideae"
@@ -11641,7 +11641,7 @@
       "karma": "Visaghna, Tvagdosa, Tridosahara, Śothahara, Varṇya"
     },
     "important_formulations": "Vajraka Taila, Dasānga Lepa, Ayaskṛti, Devadārvārisṭa, Bṛhanmaricādya Taila",
-    "therapeutic_uses": "Pāmā, Kusṭha, Kaṇdū, Visarpa, Kāsa, Vraṇa, Śotha, Śvāsa, Mūsaka Visa, Śīta Pitta, Raktadusṭi, Pīnasa, Visamajvara, Pratisyāya, SarpadaÆsa, (Casake), Visadusṭi, Suryāvarta, Ardhāvabhedaka, Kṛmiroga, Netrābhisyanda",
+    "therapeutic_uses": "Pāmā, Kusṭha, Kaṇdū, Visarpa, Kāsa, Vraṇa, Śotha, Śvāsa, Mūsaka Visa, Śīta Pitta, Raktadusṭi, Pīnasa, Visamajvara, Pratisyāya, SarpadaÆsa, , Visadusṭi, Suryāvarta, Ardhāvabhedaka, Kṛmiroga, Netrābhisyanda",
     "dose": "25-50 g (Kwatha) 3-6 g (Curna).",
     "plant_family": "Fabaceae",
     "plant_subfamily": "Mimosoideae"
@@ -11688,7 +11688,7 @@
       "karma": "Medhya, Śukravardhaka, Kaphahara, Vātahara, Pittasāmaka, Jantughna, Varṇa Prasādana, Lomasaμjanana"
     },
     "important_formulations": "Mahā Nārāyaṇa Taila, Balā Taila",
-    "therapeutic_uses": "Rakta Vikāra, Tṛsṇā, Tila Kālaka, Dāha, Kusṭha, Kṛmiroga, Pidikā, Arbuda (Karkaṭa)",
+    "therapeutic_uses": "Rakta Vikāra, Tṛsṇā, Tila Kālaka, Dāha, Kusṭha, Kṛmiroga, Pidikā, Arbuda",
     "dose": "1-3 g of the drug in powder form.",
     "plant_family": "Taxaceae",
     "plant_subfamily": "N/A"
@@ -12352,7 +12352,7 @@
       "karma": "Vātahara, Vraṇasodhaka"
     },
     "important_formulations": "Vajraka Taila, Abhayā Lavaṇa",
-    "therapeutic_uses": "Asmarī, Śūla, Mūtrakṛcchra, Pūtanāgrahavisṭa-(Bālaroga), Kusṭha, Grahaṇī, Śvāsa, Mūsakavisa vikāra, Arsa, Vraṇa",
+    "therapeutic_uses": "Asmarī, Śūla, Mūtrakṛcchra, Pūtanāgrahavisṭa-, Kusṭha, Grahaṇī, Śvāsa, Mūsakavisa vikāra, Arsa, Vraṇa",
     "dose": "3-6 g",
     "plant_family": "Apocynaceae",
     "plant_subfamily": "Apocynoideae"
@@ -13345,7 +13345,7 @@
       "karma": "Kaphapittanut, Kṛmighna, Varṇya, Vraṇahara, Visaghna"
     },
     "important_formulations": "Mahā Visagarbha Taila",
-    "therapeutic_uses": "Visamajvara, Bādhirya, Raktapitta, Pāṇdu, Pradara, Jvara, Kaṇdū, Śosa, Ksata , Jantukṛmi, Grahaṇī, Dusṭavraṇa, Ślīpada, Sidhma, Sarpavisa, Śastraksata, Galagaṇda, Apacī, Bālagraha, Pratisyāya",
+    "therapeutic_uses": "Visamajvara, Bādhirya, Raktapitta, Pāṇdu, Pradara, Jvara, Kaṇdū, Śosa, Ksata, Jantukṛmi, Grahaṇī, Dusṭavraṇa, Ślīpada, Sidhma, Sarpavisa, Śastraksata, Galagaṇda, Apacī, Bālagraha, Pratisyāya",
     "dose": "1- 3 g",
     "plant_family": "Acanthaceae",
     "plant_subfamily": "Acanthoideae"
@@ -13629,7 +13629,7 @@
       "karma": "Vātahara, Kaphasāmaka, Rasāyana, Kesya, Medhya, Vāmaka, Mūtrala, Virecaka, Visaghna"
     },
     "important_formulations": "Āragvadhādi Kvātha Cūrṇa",
-    "therapeutic_uses": "Jvara, Pāṇdu, Kāmalā, Śūla, Vṛddhi, Smrṭi Ksaya, Sandhivāta, Kusṭha, Sarpavisa, Mūsikāvisa, Jvarayukta-Kāsa , Indralupta, Sannipātodara, Asmarī, Śopha, Bhūtabādhā, Grahabādhā",
+    "therapeutic_uses": "Jvara, Pāṇdu, Kāmalā, Śūla, Vṛddhi, Smrṭi Ksaya, Sandhivāta, Kusṭha, Sarpavisa, Mūsikāvisa, Jvarayukta-Kāsa, Indralupta, Sannipātodara, Asmarī, Śopha, Bhūtabādhā, Grahabādhā",
     "dose": "1-3 g",
     "plant_family": "Sapindaceae",
     "plant_subfamily": "Sapindoideae"
@@ -14339,7 +14339,7 @@
       "karma": "Kaphavardhaka, Vātahara, Pittahara, Vṛsya, Śukravardhaka, Stanyajanana, BṛÆhaṇa, Jīvanīya, Rucya"
     },
     "important_formulations": "Dasamūlārisṭa, Śiva Guṭikā, Amṛtaprāsa Ghṛta, Asoka Ghṛta, Dhānvantara Taila, Bṛhatmāsa Taila, Mahā Nārāyaṇa Taila, Vāsācandanādi Taila",
-    "therapeutic_uses": "Jvara, Raktavikāra, Ksaya, Dāha, Raktapitta, Bālaroga, Kāmalā, Ksata , Ksīṇa",
+    "therapeutic_uses": "Jvara, Raktavikāra, Ksaya, Dāha, Raktapitta, Bālaroga, Kāmalā, Ksata, Ksīṇa",
     "dose": "3-6 g",
     "plant_family": "Asparagaceae",
     "plant_subfamily": "Nolanoidae / None"
@@ -15750,7 +15750,7 @@
       "karma": "Vātahara, Kaphahara, Pittasāmaka, Agnidīpaka, Visaghna, Jvarahara"
     },
     "important_formulations": "Kumāryāsava (A), Punarnavādyarisṭa, Dhānvantara Ghṛta, Dādhika Ghṛta",
-    "therapeutic_uses": "Pāṇdu, Visavikāra, Śotha, Śopha, Udararoga, Hṛdroga, Kāsa, UraṚksata, Śūla, Rakta Vikāra, Paittika Jvara, Cāturthikajvara, Srāva, Plīhāroga, Vātakaṇṭaka, Vidradhi , Alarkavisa, Vṛscika-visa, Sarpavisa, Mūsikāvisa",
+    "therapeutic_uses": "Pāṇdu, Visavikāra, Śotha, Śopha, Udararoga, Hṛdroga, Kāsa, UraṚksata, Śūla, Rakta Vikāra, Paittika Jvara, Cāturthikajvara, Srāva, Plīhāroga, Vātakaṇṭaka, Vidradhi, Alarkavisa, Vṛscika-visa, Sarpavisa, Mūsikāvisa",
     "dose": "5-15 g",
     "plant_family": "Nyctaginaceae",
     "plant_subfamily": "N/A"
@@ -16504,7 +16504,7 @@
       "karma": "Kāsahara, Pittaśāmaka"
     },
     "important_formulations": "Eravati, Vallīkhadiraguṇaāª, Āriguṇāª",
-    "therapeutic_uses": "Jvara (Fever), Rāktadoṣa (Disorder of blood), Agnimāndyan (Digestive impairment)",
+    "therapeutic_uses": "Jvara, Rāktadoṣa, Agnimāndyan",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Fabaceae",
     "plant_subfamily": "Mimosoideae"
@@ -16552,7 +16552,7 @@
       "karma": "Hṛdya, Pratidūṣaka, Kapha-vātahara, Vraṇaropaṇa, Vraṇaśodhana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Āmavāta (Rheumatism), Aṅgamarda (Body ache), Gaṇḍamālā (Cervical lymphadenitis), Kuṣṭha (Leprosy / diseases of skin), Pādadari (Chaffed / cracked soles / rhagades), Prameha (Metabolic disorder), Sandhiśotha (Arthritis), Śotha (Inflammation), Vātarakta (Gout), Vātaroga (Disease due to Vata dosa), Visarpa (Erysepales), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Āmavāta, Aṅgamarda, Gaṇḍamālā, Kuṣṭha, Pādadari, Prameha, Sandhiśotha, Śotha, Vātarakta, Vātaroga, Visarpa, Vraṇa",
     "dose": "Svarasa (Juice): 5 to 10 ml.",
     "plant_family": "Burseraceae",
     "plant_subfamily": "N/A"
@@ -16599,7 +16599,7 @@
       "karma": "Kṛmighna, Arśoghna, Rūcya, Vedanāhara"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Granthiśotha, Arbuda (Tumor), Vicarcikā (Eczema), Udararoga (Diseases of abdomen), Ślīpada (Filariasis), Arśa (Piles)",
+    "therapeutic_uses": "Granthiśotha, Arbuda, Vicarcikā, Udararoga, Ślīpada, Arśa",
     "dose": "Cūrṇa (Powder): 5 to 10 g after Śodhana.",
     "plant_family": "Araceae",
     "plant_subfamily": "Aroideae"
@@ -16647,7 +16647,7 @@
       "karma": "Pittahara, Balya, Vṛṣya"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Kāsa (Cough), Śvāsa (Asthma), Dāha (Burning sensation), Tṛṣṇā (Thirst), Kṣaya (Pthisis), Agnimāndya (Digestive impairment), Raktadoṣa (Disorder of blood)",
+    "therapeutic_uses": "Kāsa, Śvāsa, Dāha, Tṛṣṇā, Kṣaya, Agnimāndya, Raktadoṣa",
     "dose": "Cūrṇa (Powder): 5 to 10 g daily.",
     "plant_family": "Marantaceae",
     "plant_subfamily": "N/A"
@@ -16694,7 +16694,7 @@
       "karma": "Balya, Kaphahara, Kṛmighna, Pācana, Sandhānīya, Stambhana, Vātahara, Vṛṣya"
     },
     "important_formulations": "Lākṣādya guggulu, Srnkhala Gunah, Vajravalli, Asthisrnkhala Guna, Asthisanharaka Guna, Kāṇḍavallīguṇaāª, Asthisaṃhāra (Kāṇḍa), Asthisanghatika Yoga, Asthisaṃhāraªvaṭikāvidhiª, Astisanhara Arka Gunah, Asthisaṃhāratailam",
-    "therapeutic_uses": "Arśa (Piles), Asthibhagna (Bone fracture), Kṛmi (Worm infestation), Netraroga (Diseases of the eye), Śvāsa (Asthma), Urustambha (Stiffness in thigh muscles), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Arśa, Asthibhagna, Kṛmi, Netraroga, Śvāsa, Urustambha, Vraṇa",
     "dose": "Svarasa (Juice): 10 to 20 ml. Ādrakalka (Paste): 10 to 20 g.",
     "plant_family": "Vitaceae",
     "plant_subfamily": "N/A"
@@ -16741,7 +16741,7 @@
       "karma": "Trīdoṣaghna, Vedanāhara, Rakṣoghna, Keśya, Kāntiprada"
     },
     "important_formulations": "Candanādi Taila",
-    "therapeutic_uses": "Apasmāra (Epilepsy), Bhrama (Vertigo), Jvara (Fever), Kṣaya (Pthisis), Śvāsa (Asthma), Mūrcchā (Syncope), Raktagata vāta (Hypertension), Raktapitta (Bleeding disorder), Tṛṣā (Thirst), Vātavyādhi (Disease due to Vata dosa)",
+    "therapeutic_uses": "Apasmāra, Bhrama, Jvara, Kṣaya, Śvāsa, Mūrcchā, Raktagata vāta, Raktapitta, Tṛṣā, Vātavyādhi",
     "dose": "Cūrṇa (Powder) : 1 to 3 g.",
     "plant_family": "Apiaceae",
     "plant_subfamily": "Apioideae"
@@ -16788,7 +16788,7 @@
       "karma": "Tridoṣahara, Vedanāhara, Rakṣoghna, Keśya, Vraṇaśodhana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Apasmāra (Epilepsy), Jvara (Fever), Kāsa (Cough), Krīmi (Helminthiasis), Pratisyaya (Coryza), Ucca Raktacapa (Hypertension), Unmāda (Mania / psychosis), Vātavyādhi (Disease due to Vata dosa)",
+    "therapeutic_uses": "Apasmāra, Jvara, Kāsa, Krīmi, Pratisyaya, Ucca Raktacapa, Unmāda, Vātavyādhi",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Apiaceae",
     "plant_subfamily": "Apioideae"
@@ -16835,7 +16835,7 @@
       "karma": "Kaṇṭhya, Kaphahara, Kaphapittaśāmaka, Mūtrajanana, Rasāyana, Stambhana, Viṣaghna, Vraṇaropaṇa"
     },
     "important_formulations": "Vasa Yoga",
-    "therapeutic_uses": "Agnirohini (Diphtheria), Angamarda (Body ache), Apaśmāra (Epilepsy), Atisāra (Diarrhoea), Bhrama (Vertigo), Dāha (Burning sensation), Gulma (Abdominal lump), Jvara (Fever), Kāsa (Cough), Lūtāviṣa (Spider bite), Mūtrakṛcchra (Dysuria), Raktapitta (Bleeding disorders), Raktavikāra (Disorders of blood), Śoṣa (Emaciation), Śotha (Oedema), Śvāsa (Asthma), Svrabheda (Hoarseness of voice), Visarpa (Erysepales), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Agnirohini, Angamarda, Apaśmāra, Atisāra, Bhrama, Dāha, Gulma, Jvara, Kāsa, Lūtāviṣa, Mūtrakṛcchra, Raktapitta, Raktavikāra, Śoṣa, Śotha, Śvāsa, Svrabheda, Visarpa, Vraṇa",
     "dose": "Cūrṇa (Powder): 1 to 3 g. Svarasa (Juice) : 10 to 20 g.",
     "plant_family": "Pteridaceae",
     "plant_subfamily": "N/A"
@@ -16882,7 +16882,7 @@
       "karma": "Grāhī, Kapha pittahara, Vātakara"
     },
     "important_formulations": "Bimbīghṛatam, Bimbi Guna, Bimbi Phala Guna, Bimbīguṇāh, Bimbi Guna, Bimbi Gunam , Bimbi Saka, Bimbi Puspam, Bimbi Phalam, Tundi Ghrt, Kunadaru guna, Tiktatundi Guna, Bimbāghṛtam, Bimbī (Pañcāṅga), Bimbīphalam",
-    "therapeutic_uses": "Kāmalā (Jaundice), Madhumeha (Diabetes mellitus), Pūya meha (Dysuria)",
+    "therapeutic_uses": "Kāmalā, Madhumeha, Pūya meha",
     "dose": "Svarasa (Juice) : 10 to 20 ml. Cūrṇa (Powder) : 3 to 6 g.",
     "plant_family": "Cucurbitaceae",
     "plant_subfamily": "Cucurbitoideae"
@@ -16929,7 +16929,7 @@
       "karma": "Grāhī, Kapha pittahara, Vātakara"
     },
     "important_formulations": "Bimbīghṛatam, Bimbi Guna, Bimbi Phala Guna, Bimbīguṇāh, Bimbi Guna, Bimbi Gunam , Bimbi Saka, Bimbi Puspam, Bimbi Phalam, Tundi Ghrt, Kunadaru guna, Tiktatundi Guna, Bimbāghṛtam, Bimbī (Pañcāṅga), Bimbīphalam",
-    "therapeutic_uses": "Aruci (Tastelessness), Prameha (Metabolic disorder), Pravāhikā (Dysentery), Raktapitta (Bleeding disorder)",
+    "therapeutic_uses": "Aruci, Prameha, Pravāhikā, Raktapitta",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Cucurbitaceae",
     "plant_subfamily": "Cucurbitoideae"
@@ -16976,7 +16976,7 @@
       "karma": "Garbhakāraka, Kaphahara, Mūtrala, Śleṣmanissāraka, Stanya, Vṛṣya, Viṣṭambhī"
     },
     "important_formulations": "Dugdhikā",
-    "therapeutic_uses": "Dadru (Taeniasis), Kṛmi (Worm infestation), Kāsa (Cough), Kuṣṭha (Leprosy / diseases of skin), Mūtrakṛcchra (Dysuria), Pūyameha, Śūla (Pain / colic), Tamakaśvāsa (Bronchial asthma)",
+    "therapeutic_uses": "Dadru, Kṛmi, Kāsa, Kuṣṭha, Mūtrakṛcchra, Pūyameha, Śūla, Tamakaśvāsa",
     "dose": "Cūrṇa (Powder): 1 to 3 g. Svarasa (Juice): 10 to 20 drops.",
     "plant_family": "Euphorbiaceae",
     "plant_subfamily": "Euphorbioideae"
@@ -17023,7 +17023,7 @@
       "karma": "Dīpana, Grāhī, Hṛdya, Kaphahara, Keśya, Pācana, Vātahara, Vedanāsthāpana"
     },
     "important_formulations": "Dashmularishta, Dashmulakwath",
-    "therapeutic_uses": "Āmadoṣa (Products of impaired digestion and metabolism), Agnimāndya (Digestive impairment), Aruci (Tastelessness), Chardi (Emesis), Hṛdroga (Heart diseases), Hikkā (Hiccup), Jvara (Fever), Kṛmi (Worm infestation / Helminthiasis), Kāsa (Cough), Kuṣṭha (Leprosy/ diseases of skin), Netraroga (Diseases of the eye), Pratiṣyāya (Rhinitis), Svarabheda (Hoarseness), Śvāsa (Asthma), Śūla (Pain)",
+    "therapeutic_uses": "Āmadoṣa, Agnimāndya, Aruci, Chardi, Hṛdroga, Hikkā, Jvara, Kṛmi, Kāsa, Kuṣṭha, Netraroga, Pratiṣyāya, Svarabheda, Śvāsa, Śūla",
     "dose": "Cūrṇa (Powder): 3 to 6 g. Kvātha (Decoction): 40 to 80 ml.",
     "plant_family": "Solanaceae",
     "plant_subfamily": "Solanoideae"
@@ -17070,7 +17070,7 @@
       "karma": "Vātakara, Pittahara, Kaphahara, Viṣṭambhī, Balya, Rūcikara, Ādhmānakāraka"
     },
     "important_formulations": "Gandhaka Vaṭī, Kravyāda Rasa, Canakamla, Canaka Saka, Canaka Gunah, Śuṣkabharjitacaṇakaguṇaª, Yusa Guna, Krisna Canaka Guna",
-    "therapeutic_uses": "Annadravaśūla (Gastric ulcer), Chardi (Emesis), Dāha (Burning sensation), Jvara (Fever), Kāsa (Cough), Pīnasa (Chronic rhinitis / sinusitis), Prameha (Metabolic disorder), Śoṣa (Cachexia), Śvāsa (Asthma), Tṛṣṇā (Thirst), Udara (Diseases of abdomen)",
+    "therapeutic_uses": "Annadravaśūla, Chardi, Dāha, Jvara, Kāsa, Pīnasa, Prameha, Śoṣa, Śvāsa, Tṛṣṇā, Udara",
     "dose": "Cūrṇa: 5 to 20 g.",
     "plant_family": "Fabaceae",
     "plant_subfamily": "Faboideae"
@@ -17117,7 +17117,7 @@
       "karma": "Rucya, Pittaśamana, Viṣṭambhī"
     },
     "important_formulations": "Dārvīsekaª, Dārvīsvarasaª, Dāruharidrā, Yavakṣārādivaṭī, Darvi Guna, Rasanjana GunaRasanjana Prayoga",
-    "therapeutic_uses": "Āmātisāra (Diarrhoea due to indigestion), Aruci (Tastelessness), Hṛllāsa (Nausea), Jvara (Fever); Pittaja-atisāra (Diarrhoea due to Pitta dosa), Raktavikarā (Disorders of blood), Tṛṣṇā (Thirst), Vamana, Viṣavikāra (Disorders due to poison), Yakṛtodara (Enlargement of liver (Hepatomegaly))",
+    "therapeutic_uses": "Āmātisāra, Aruci, Hṛllāsa, Jvara, Raktavikarā, Tṛṣṇā, Vamana, Viṣavikāra, Yakṛtodara",
     "dose": "Cūrṇa (Powder) : 3 to 5 g.",
     "plant_family": "Berberidaceae",
     "plant_subfamily": "N/A"
@@ -17164,7 +17164,7 @@
       "karma": "Pittahara, Kaphahara, Rūcya, Dīpana, Vātakara"
     },
     "important_formulations": "Dhavamūlaguṇaāª, Dhava Guna, Dhavaphalaguṇaª, Dhavaguṇaª, Dhava Phala Guna, Dhavaguṇaāª",
-    "therapeutic_uses": "Aśmarī (Calculus), Arśa (Piles), Mūtrakṛcchra (Dysuria), Medoroga (Obesity), Pāṇḍu (Anaemia), Prameha (Metabolic disorder), Raktavīkāra (Disorders of blood), Upadaṃśa (Syphilis / soft chancre)",
+    "therapeutic_uses": "Aśmarī, Arśa, Mūtrakṛcchra, Medoroga, Pāṇḍu, Prameha, Raktavīkāra, Upadaṃśa",
     "dose": "Cūrṇa (Powder): 5 to 10 g.",
     "plant_family": "Combretaceae",
     "plant_subfamily": "N/A"
@@ -17211,7 +17211,7 @@
       "karma": "Pittahara, Kaphahara, Rasāyana, Dīpana, Medoghna"
     },
     "important_formulations": "Ayaskṛti, Nyagrodhādi Cūrṇa, Dhavamūlaguṇaāª, Dhava Guna, Dhavaphalaguṇaª, Dhavaguṇaª, Dhava Phala Guna, Dhavaguṇaāª",
-    "therapeutic_uses": "Aśmarī (Calculus), Arśa (Piles), Karṇasrāva (Otorrhoea), Kuṣṭha (Leprosy / diseases of skin), Mūtrakṛcchra (Dysuria), Medoroga (Obesity), Pāṇḍu (Anaemia), Prameha (Metabolic disorder), Raktavīkāra (Disorders of blood), Upadaṃśa (Syphilis / soft chancre), Visarpa (Erysepales)",
+    "therapeutic_uses": "Aśmarī, Arśa, Karṇasrāva, Kuṣṭha, Mūtrakṛcchra, Medoroga, Pāṇḍu, Prameha, Raktavīkāra, Upadaṃśa, Visarpa",
     "dose": "Kvātha (Decoction): 30 to 50 ml.",
     "plant_family": "Combretaceae",
     "plant_subfamily": "N/A"
@@ -17259,7 +17259,7 @@
       "karma": "Ārtavajanana, Dīpana, Kaphahara, Kṛmighna, Mūtrala, Śothahara, Sugandhi, Vātahara, Vedanāsthāpana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Apasmāra (Epilepsy), Jīrṇajvara (Chronic fever), Jalodara (Ascites), Kṛmi (Worm infestation), Kaṣṭārtava (Dysmenorrhoea), Karṇaśūla (Otalgia), Mūtrakṛcchra (Dysuria), Pakṣāghāta (Paralysis / Hemiplegia), Plīhāroga (Splenic disease), Sandhiśotha (Arthritis), Śotha (Inflammation), Udararoga (Diseases of abdomen), Vātaroga (Disease due to Vata dosa), Yakṛt roga (Liver disorder)",
+    "therapeutic_uses": "Agnimāndya, Apasmāra, Jīrṇajvara, Jalodara, Kṛmi, Kaṣṭārtava, Karṇaśūla, Mūtrakṛcchra, Pakṣāghāta, Plīhāroga, Sandhiśotha, Śotha, Udararoga, Vātaroga, Yakṛt roga",
     "dose": "Cūrṇa (Powder): 1 to 2 g.",
     "plant_family": "Asteraceae",
     "plant_subfamily": "Asteroideae"
@@ -17306,7 +17306,7 @@
       "karma": "Hṛdya, Mūtrala, Pittahara, Vṛṣya, Vājīkaraṇa"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Aśmarī (Calculus), Kāmalā (Jaundice), Mūtrakṛcchra (Dysuria), Śotha (Inflammation), Vātarakta (Gout)",
+    "therapeutic_uses": "Aśmarī, Kāmalā, Mūtrakṛcchra, Śotha, Vātarakta",
     "dose": "Cūrṇa (Powder) : 3 to 6 g.",
     "plant_family": "Asparagaceae",
     "plant_subfamily": "Asparagoideae"
@@ -17353,7 +17353,7 @@
       "karma": "Kaphahara, Pittahara, Śukraśodhana, Vedanāsthāpana, Vamana"
     },
     "important_formulations": "Evavaluka Guna, Elavālukaª, Balukam Guna, Balukam Phalam Guna, Elavālukaguṇaāh, Valukam(Trapusa Visesa) Guna",
-    "therapeutic_uses": "Arśa (Piles), Aruci (Tastelessness), Kṛmi roga (Worm infestation), Kaṇḍu (Itching), Kuṣṭha (Leprosy / diseases of skin), Vraṇa (Ulcer), Mūtra roga (Urinary diseases), Rakta-pitta (Bleeding disorder)",
+    "therapeutic_uses": "Arśa, Aruci, Kṛmi roga, Kaṇḍu, Kuṣṭha, Vraṇa, Mūtra roga, Rakta-pitta",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Rosaceae",
     "plant_subfamily": "Amygdaloideae"
@@ -17400,7 +17400,7 @@
       "karma": "Kaphahara, Pittahara, Śukraśodhana, Vamana, Vedanāsthāpana"
     },
     "important_formulations": "Evavaluka Guna, Elavālukaª, Balukam Guna, Balukam Phalam Guna, Elavālukaguṇaāh, Valukam(Trapusa Visesa) Guna",
-    "therapeutic_uses": "Arśa (Piles), Aruci (Tastelessness), Hṛdroga (Heart disease), Kaṇḍu (Itching), Kṛmi (Worm infestation), Kuṣṭha (Leprosy / diseases of skin), Mūtra roga (Urinary diseases), Rakta-pitta (Bleeding disorder), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Arśa, Aruci, Hṛdroga, Kaṇḍu, Kṛmi, Kuṣṭha, Mūtra roga, Rakta-pitta, Vraṇa",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Rosaceae",
     "plant_subfamily": "Amygdaloideae"
@@ -17447,7 +17447,7 @@
       "karma": "Pittahara, Kaphahara, Dīpana, Vātakara, Stanya, Hṛdya, Bṛṃhaṇa"
     },
     "important_formulations": "Pakvavātakumbhaguṇāª, Vātakumbhaguṇāª",
-    "therapeutic_uses": "Kṛmi (Worm infestation), Kāsa (Cough), Raktavīkāra (Disorders of blood), Śvāsa (Asthma), Vātarakta (Gout)",
+    "therapeutic_uses": "Kṛmi, Kāsa, Raktavīkāra, Śvāsa, Vātarakta",
     "dose": "Cūrṇa (Powder): 10 to 20 g.",
     "plant_family": "Caricaceae",
     "plant_subfamily": "N/A"
@@ -17494,7 +17494,7 @@
       "karma": "Kaphahara, Mūtrala"
     },
     "important_formulations": "Aśmarīharakaṣāya Cūrṇa, Pakvavātakumbhaguṇāª, Vātakumbhaguṇāª",
-    "therapeutic_uses": "Aśmarī (Calculus), Arśa (Piles), Aruci (Tastelessness), Kṛmi roga (Worm infestation), Mutraroga (Urinary diseases), Raktapitta (Bleeding disorder), Raktapradara (Menorrhagia or metrorrhagia or both), Tvak roga (Skin diseases), Udaraśūla (Pain in the abdomen), Vātarakta (Gout), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Aśmarī, Arśa, Aruci, Kṛmi roga, Mutraroga, Raktapitta, Raktapradara, Tvak roga, Udaraśūla, Vātarakta, Vraṇa",
     "dose": "Cūrṇa (Powder): 2 to 6 g.",
     "plant_family": "Caricaceae",
     "plant_subfamily": "N/A"
@@ -17542,7 +17542,7 @@
       "karma": "Balya, Dīpana, Jvaraghna, Kaphahara, Keśya, Mūtrala, Pācana, Pittahara"
     },
     "important_formulations": "Hrivera Guna",
-    "therapeutic_uses": "Aruci (Tastelessness), Atisāra (Diarrhoea), Chardi (Emesis), Dāha (Burning sensation), Hṛdroga (Heart disease), Hṛllāsa (Nausea), Jvara (Fever), Kuṣṭha (Leprosy / diseases of skin), Raktapitta (Bleeding disorder), Śvitra (Leucoderma / Vitiligo), Tṛṣṇā (Thirst), Visarpa (Erysepales), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Aruci, Atisāra, Chardi, Dāha, Hṛdroga, Hṛllāsa, Jvara, Kuṣṭha, Raktapitta, Śvitra, Tṛṣṇā, Visarpa, Vraṇa",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Malvaceae",
     "plant_subfamily": "Malvoideae"
@@ -17589,7 +17589,7 @@
       "karma": "Dīpana, Jvaraghna, Tṛṣṇāhara, Virecana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Jvara (Fever), Dāha (Burning sensation), Kāmalā (Jaundice), Prameha (Metabolic disorder)",
+    "therapeutic_uses": "Agnimāndya, Jvara, Dāha, Kāmalā, Prameha",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Molluginaceae",
     "plant_subfamily": "N/A"
@@ -17636,7 +17636,7 @@
       "karma": "Balya, Bṛṃhaṇa, Dīpana, Kaphahara, Keśya, Mūtrala, Pittahara, Śothahara, Vṛṣya, Vātahara, Vedanāsthāpana"
     },
     "important_formulations": "Aguruvādi Taila, Cyavanaprāśa Avaleha, Daśamūla Kvātha, Gokṣurādi Guggulu, Kāmadeva Ghṛta, Mahārāsnādi Kvātha, Pancanimba Cūrṇa, Rāsnāsaptaka Kvātha",
-    "therapeutic_uses": "Āmavāta (Rheumatism), Amlapitta (Hyperacidity), Antravṛddhi (Hernia), Aśmarī (Calculus), Ardita (Facial palsy), Arśa (Piles), Hṛdroga (Heart disease), Indralupta (Alopecia), Jvara (Fever), Kāsa (Cough), Mūtrāghāta (Urinary obstruction), Mūtrakṛcchra (Dysuria), Pakṣāghāta (Paralysis / Hemiplegia), Pradara (Excessive vaginal discharge), Prameha (Metabolic disorder), Raktapitta (Bleeding disorder), Śūla (Pain / Colic), Śotha (Oedema), Śvāsa (Asthma), Sūtikāroga (Puerperal fever), Sītapitta (Urticaria), Vātarakta (Gout)",
+    "therapeutic_uses": "Āmavāta, Amlapitta, Antravṛddhi, Aśmarī, Ardita, Arśa, Hṛdroga, Indralupta, Jvara, Kāsa, Mūtrāghāta, Mūtrakṛcchra, Pakṣāghāta, Pradara, Prameha, Raktapitta, Śūla, Śotha, Śvāsa, Sūtikāroga, Sītapitta, Vātarakta",
     "dose": "Cūrṇa (Powder): 3 to 6 g. Kvātha (Decoction): 50 to 100 ml.",
     "plant_family": "Zygophyllaceae",
     "plant_subfamily": "N/A"
@@ -17683,7 +17683,7 @@
       "karma": "Kaphaghna, Śvarya, Śothahara, Śūlaghna"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Āmavāta (Rheumatism), Hikkā (Hiccup), Kāsa (Cough), Prameha (Metabolic disorder), Śvāsa (Asthma), Sandhiśūla (Joint pain), Śūla (Pain / Colic)",
+    "therapeutic_uses": "Āmavāta, Hikkā, Kāsa, Prameha, Śvāsa, Sandhiśūla, Śūla",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Zingiberaceae",
     "plant_subfamily": "Alpinioideae"
@@ -17730,7 +17730,7 @@
       "karma": "Pittahara, Ropaṇa, Śūlapraśamana, Hṛdya"
     },
     "important_formulations": "Satapatri Guna",
-    "therapeutic_uses": "Ardhavabhedaka (Hemicrania / Migraine), Mukhasphota (Ulcer in the mouth), Śirahśūla (Head ache), Tvakroga (Skin diseases), Vraṇa (Ulcer), Yavanpidika (Pimples / Acne vulgaris)",
+    "therapeutic_uses": "Ardhavabhedaka, Mukhasphota, Śirahśūla, Tvakroga, Vraṇa, Yavanpidika",
     "dose": "Cūrṇa (Powder): 3 to 6 g daily.",
     "plant_family": "Asteraceae",
     "plant_subfamily": "Asteroideae"
@@ -17777,7 +17777,7 @@
       "karma": "Kaphaghna, Vāmaka, Śransana, Kṛmighna, Mūtrala, Tvakdoṣahara, Amadoṣahara"
     },
     "important_formulations": "Punarnavādi Cūrṇa",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Dantaśūla (Tooth ache), Karṇaśūla (Otalgia), Kāsa (Cough), Sandhiśotha (Arthritis), Śvāsa (Asthma), Vibandha (Constipation)",
+    "therapeutic_uses": "Agnimāndya, Dantaśūla, Karṇaśūla, Kāsa, Sandhiśotha, Śvāsa, Vibandha",
     "dose": "Cūrṇa (Powder): 3 to 5 g. Svarasa (Juice): 5 to 10 ml, 1 to 3 in Karṇaśūla.",
     "plant_family": "Euphorbiaceae",
     "plant_subfamily": "Acalyphoideae"
@@ -17824,7 +17824,7 @@
       "karma": "Jvaraghna, Vedanahara"
     },
     "important_formulations": "Hastisundi, Hastisundi Guna",
-    "therapeutic_uses": "Sannipatajivara (High fever due to vitiation of all dosas), Śūla (Pain / Colic)",
+    "therapeutic_uses": "Sannipatajivara, Śūla",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Boraginaceae",
     "plant_subfamily": "Cordioideae"
@@ -17872,7 +17872,7 @@
       "karma": "Bṛṃhaṇa, Balya, Dāhapraśamana, Pittaśāmaka, Vṛṣya, Vāta-Kaphavardhaka"
     },
     "important_formulations": "Indivara Guna",
-    "therapeutic_uses": "Dāha (Burning sensation), Daurbalya (Weakness), Dhātukṣya (Tissue wasting), Raktapitta (Bleeding disorder), Yakṛtvikāra (Disorder of liver)",
+    "therapeutic_uses": "Dāha, Daurbalya, Dhātukṣya, Raktapitta, Yakṛtvikāra",
     "dose": "Cūrṇa (Powder) : 3 to 6 g.",
     "plant_family": "Pontederiaceae",
     "plant_subfamily": "N/A"
@@ -17920,7 +17920,7 @@
       "karma": "Balya, Mūtrajanana, Śothahara, Tridoṣahara"
     },
     "important_formulations": "Balāśvagandhālākṣādi Taila, Jalakumbhībhasmaprayogaª, Vāriparṇī",
-    "therapeutic_uses": "Arśa (Piles), Dāha (Burning sensation), Galagaṇḍa (Goitre), Jvara (Fever), Kuṣṭha (Leprosy / diseases of skin), Mūtrakṛcchra (Dysuria), Śoṣa (Emaciation), Raktapitta (Bleeding disorder)",
+    "therapeutic_uses": "Arśa, Dāha, Galagaṇḍa, Jvara, Kuṣṭha, Mūtrakṛcchra, Śoṣa, Raktapitta",
     "dose": "Cūrṇa (Powder): 3 to 5 g. Svarasa (Juice): 10 to 20 ml.",
     "plant_family": "Araceae",
     "plant_subfamily": "Aroideae"
@@ -17967,7 +17967,7 @@
       "karma": "Rasāyana, Balya, Cakṣuṣya, Grahi, Vrsya, Bṛṃhaṇa, Stanyajanana, Visaghna, Tridosahara"
     },
     "important_formulations": "Cyavanaprāśa, Brāhmarasāyana, Amṛtaprāśaghṛta, Aśokaghṛta, Bṛhatmāṣataila, Marmaguṭikā, Mānasamitravaṭaka, Śvāsahara kaṣāyacūrṇa, Guḍūcyāditaila",
-    "therapeutic_uses": "Atisāra (Diarrhoea), Dāha (Burning sensation), Jvara (Fever), Kṣaya (Pthisis), Kāsa (Cough), Śoṣa (Cachexia), Mukharoga (Disease of mouth), Naktāndhya (Night blindness), Netraroga (Diseases of the eye), Raktapitta (Bleeding disorder), Tṛṣṇā (Thirst), Urhksata (Pulmonary cavitation), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Atisāra, Dāha, Jvara, Kṣaya, Kāsa, Śoṣa, Mukharoga, Naktāndhya, Netraroga, Raktapitta, Tṛṣṇā, Urhksata, Vraṇa",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Apocynaceae",
     "plant_subfamily": "Asclepiadoideae"
@@ -18014,7 +18014,7 @@
       "karma": "Cakṣuṣya, Dīpanīya, Mūtrala"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Dantaśūla (Tooth ache), Jalodara (Ascites), Kaṇḍu (Itching), Raktārśa (Bleeding piles)",
+    "therapeutic_uses": "Agnimāndya, Dantaśūla, Jalodara, Kaṇḍu, Raktārśa",
     "dose": "Cūrṇa (Powder) : 2 to 5 g.",
     "plant_family": "Solanaceae",
     "plant_subfamily": "Solanoideae"
@@ -18062,7 +18062,7 @@
       "karma": "Dīpana, Kaphahara, Mūtrala, Svedajanana, Vātahara"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Aśmarī (Calculus), Bastiroga (Diseases of urinary system), Gṛdhrasī (Sciatica), Hikkā (Hiccup), Jalodara (Ascites), Kaphaja Śiroroga (Catarrhal Sinusitis), Kaphajvara (Fever due to Kapha dosa), Mūtrāghāta (Urinary obstruction / Retention of urine), Mastiṣkadaurbalya (Neurosthenia), Pṛṣṭhaśūla (Lumbago), Pārśvaśūla (Intercostal neuralgia and pleurodynia), Sarvāṅga śopha (Anasarca), Śūla (Pain), Udaraśūla (Pain in the abdomen), Udararoga (Diseases of abdomen), Vātarakta (Gout), Yakṛtplīhā Vikāra (Diseases of liver and spleen)",
+    "therapeutic_uses": "Aśmarī, Bastiroga, Gṛdhrasī, Hikkā, Jalodara, Kaphaja Śiroroga, Kaphajvara, Mūtrāghāta, Mastiṣkadaurbalya, Pṛṣṭhaśūla, Pārśvaśūla, Sarvāṅga śopha, Śūla, Udaraśūla, Udararoga, Vātarakta, Yakṛtplīhā Vikāra",
     "dose": "Cūrṇa (Powder) : 5 to 7 g.",
     "plant_family": "Apiaceae",
     "plant_subfamily": "Apioideae"
@@ -18109,7 +18109,7 @@
       "karma": "Pācana, Dīpana, Śītapraśamana, Śothaghna, Svedana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Kaphavātavyādhi (Disorders due to Kapha and Vata), Angamarda (Body ache), Atisāra (Diarrhoea), Jvara (Fever), Kṛmi (Worm infestation), Kuṣṭha (Leprosy / diseases of skin), Viṣamajvara (Intermittent fever)",
+    "therapeutic_uses": "Agnimāndya, Kaphavātavyādhi, Angamarda, Atisāra, Jvara, Kṛmi, Kuṣṭha, Viṣamajvara",
     "dose": "Cūrṇa (Powder): 0.5 to 2 g.",
     "plant_family": "Rutaceae",
     "plant_subfamily": "Aurantioideae"
@@ -18156,7 +18156,7 @@
       "karma": "Vātahara, Kaphahara, Mūtrala, Hṛdya, Vṛṣya, Svedakara, Keśya, Balya"
     },
     "important_formulations": "Grahaṇīmihira taila, Aśokaghṛta, Bṛhat Viṣamajvarāntaka lauha",
-    "therapeutic_uses": "Arśa (Piles), Atisāra (Diarrhoea), Daurbalya (Weakness), Hṛdroga (Heart disease), Indralupta (Alopecia), Jvara (Fever), Kṛmi (Helminthiasis), Kāmalā (Jaundice), Kāsa (Cough), Pāṇḍu (Anaemia), Plīhāvṛddhi (Splenomegaly), Sirahśūla (Headache), Slipada (Filariasis), Striroga, Śūla (Pain / Colic), Śvāsa (Asthma), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Arśa, Atisāra, Daurbalya, Hṛdroga, Indralupta, Jvara, Kṛmi, Kāmalā, Kāsa, Pāṇḍu, Plīhāvṛddhi, Sirahśūla, Slipada, Striroga, Śūla, Śvāsa, Vraṇa",
     "dose": "Cūrṇa (Powder) : 3 to 6 g.",
     "plant_family": "Asteraceae",
     "plant_subfamily": "Asteroideae"
@@ -18204,7 +18204,7 @@
       "karma": "Balya, Dehadārḍhyakara, Hṛdya, Pittaśāmaka, Rasāyana, Stambhana"
     },
     "important_formulations": "Ketakī, Ketaki Pakvaphala Guna, Ketaki guna, Ketaka Gunah, Kevika Guna",
-    "therapeutic_uses": "Gulma (Abdominal lump), Jvara (Fever), Mūtrakṛcchra (Dysuria), Pradara (Excessive vaginal discharge), Raktapitta (Bleeding disorder), Tvakroga (Skin diseases)",
+    "therapeutic_uses": "Gulma, Jvara, Mūtrakṛcchra, Pradara, Raktapitta, Tvakroga",
     "dose": "Cūrṇa (Powder): 1 to 2 g. Kvātha (Decoction): 30 to 50 ml.",
     "plant_family": "Pandanaceae",
     "plant_subfamily": "N/A"
@@ -18252,7 +18252,7 @@
       "karma": "Dīpana, Garbhāsayottejaka, Kapahara, Kāsahara, Kṛmighna, Kuṣṭhaghna, Rucya, Vātahara, Virecana, Viṣaghna, Vraṇaśodhana"
     },
     "important_formulations": "Kitamari Gunah, Kīṭamārīguṇaª",
-    "therapeutic_uses": "Kṛmi (Worm infestation), Kaṣṭārtava (Dysmenorrhoea), Sandhiśūla, Śītapitta (Urticaria), Śotha (Oedema), Tvakroga, Viṣamajvara (Intermittent fever), Vicarcika (Dry and weeping eczema), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Kṛmi, Kaṣṭārtava, Sandhiśūla, Śītapitta, Śotha, Tvakroga, Viṣamajvara, Vicarcika, Vraṇa",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Aristolochiaceae",
     "plant_subfamily": "N/A"
@@ -18300,7 +18300,7 @@
       "karma": "Dāhapraśamana, Grāhī, Jvaraghna, Kuṣṭhaghna, Pittahara, Vraṇya"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Atisāra (Diarrhoea), Jvara (Fever), Kuṣṭha (Leprosy / diseases of skin), Prameha (Metabolic disorder), Raktapitta (Bleeding disorder), Visarpa (Erysepales), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Atisāra, Jvara, Kuṣṭha, Prameha, Raktapitta, Visarpa, Vraṇa",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Arecaceae",
     "plant_subfamily": "Calamoideae"
@@ -18347,7 +18347,7 @@
       "karma": "Mūtrala, Sarvadoṣaprakopaka, Svedajanana, Vidāhī, Virecana"
     },
     "important_formulations": "Kusumbham Guna, Kusumbhatailaguṇa, Kusumbha Tail Guna, Kusumbha Guna, Kusumbh Guna",
-    "therapeutic_uses": "Āmavāta (Rheumatism), Aśmarī (Calculus), Daurbalya (Weakness), Kāmalā (Jaundice), Kaṣṭārtava (Dysmenorrhoea), Mūtrakṛcchra (Dysuria), Pratiśyāya (Coryza), Raktapitta (Bleeding disorder)",
+    "therapeutic_uses": "Āmavāta, Aśmarī, Daurbalya, Kāmalā, Kaṣṭārtava, Mūtrakṛcchra, Pratiśyāya, Raktapitta",
     "dose": "Cūrṇa (Powder): 2 to 4 g.",
     "plant_family": "Asteraceae",
     "plant_subfamily": "Asteroideae"
@@ -18394,7 +18394,7 @@
       "karma": "Vātakara, Pittakara, Kaphahara, Dīpana, Madanāśaka, Balya"
     },
     "important_formulations": "Kusumbham Guna, Kusumbhatailaguṇa, Kusumbha Tail Guna, Kusumbha Guna, Kusumbh Guna",
-    "therapeutic_uses": "Aśmarī (Calculus), Badhirya (Deafness), Daurbalya (Weakness), Mūtrakṛcchra (Dysuria), Mutravikara (Urinary diseases), Netraroga (Diseases of the eye), Pralapa (Delirium), Prameha (Metabolic disorder), Raktavīkāra (Disorders of blood), Yoniroga (Disease of female genital tract), Pradara (Excessive vaginal discharge)",
+    "therapeutic_uses": "Aśmarī, Badhirya, Daurbalya, Mūtrakṛcchra, Mutravikara, Netraroga, Pralapa, Prameha, Raktavīkāra, Yoniroga, Pradara",
     "dose": "Cūrṇa (Powder): 2 to 4 g.",
     "plant_family": "Asteraceae",
     "plant_subfamily": "Asteroideae"
@@ -18441,7 +18441,7 @@
       "karma": "Kaphahara, Svedajanana, Dīpana, Keśarañjana, Viṣaghna"
     },
     "important_formulations": "Godhāviṣacikitsā, Yoga Kusumbªa Yoga, Kusumbham Guna, Kusumbhatailaguṇa, Kusumbha Tail Guna, Kusumbha Guna, Kusumbh Guna",
-    "therapeutic_uses": "Kaṣṭārtava (Dysmenorrhoea), Kāsa (Cough), Mūtrakṛcchra (Dysuria), Pratiśyāya (Coryza), Raktapitta (Bleeding disorder), Romantika (Measles), Śvāsa (Asthma), Visphotake (Blisterous eruption), Yoniroga (Disease of female genital tract)",
+    "therapeutic_uses": "Kaṣṭārtava, Kāsa, Mūtrakṛcchra, Pratiśyāya, Raktapitta, Romantika, Śvāsa, Visphotake, Yoniroga",
     "dose": "Cūrṇa (Powder): 2 to 4 g.",
     "plant_family": "Asteraceae",
     "plant_subfamily": "Asteroideae"
@@ -18489,7 +18489,7 @@
       "karma": "Dīpana, Kaphahara, Pācana, Sraṃsana, Vamana, Vraṇa ropaṇa"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Agnimāndya, Vraṇa",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Euphorbiaceae",
     "plant_subfamily": "Acalyphoideae"
@@ -18536,7 +18536,7 @@
       "karma": "Kaphahara, Mūtrala, Sraṃsana, Śūlaghna"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Āmavāta (Rheumatism), Apasmāra (Epilepsy), Ardhāvabhedaka (Migraine / Hemicrania), Hṛdayaroga (Heart disease), Kāmalā (Jaundice), Kāsa (Cough), Pāṇḍu (Anaemia), Śotha (Oedema), Śvāsa (Asthma), Urakṣata (Chest wound), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Āmavāta, Apasmāra, Ardhāvabhedaka, Hṛdayaroga, Kāmalā, Kāsa, Pāṇḍu, Śotha, Śvāsa, Urakṣata, Vraṇa",
     "dose": "Cūrṇa (Powder) : 3 to 6 g.",
     "plant_family": "Aizoaceae",
     "plant_subfamily": "N/A"
@@ -18583,7 +18583,7 @@
       "karma": "Raktastambhana, Saṅgrāhī, Vraṇaropaṇa"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Atisāra (Diarrhoea), Pravāhikā (Dysentery), Raktārśa (Bleeding piles), Raktapitta (Bleeding disorder), Rakta-Pradara (Menorrhagia or Metrorrhagia or both), Raktasrāva (Haemorrhage), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Atisāra, Pravāhikā, Raktārśa, Raktapitta, Rakta-Pradara, Raktasrāva, Vraṇa",
     "dose": "Cūrṇa (Powder): 1 to 2 g.",
     "plant_family": "Asparagaceae",
     "plant_subfamily": "Nolinoideae"
@@ -18630,7 +18630,7 @@
       "karma": "Tridoṣaśamana, Kuṣṭhaghna"
     },
     "important_formulations": "Candrakalā-rasa, Madhvi, Vasanti Guna, Atimukta Guna, Mādhvī Taila",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Kṛmi roga (Worm infestation), Kaṇḍu (Itching), Pama (Eczema), Raktapitta (Bleeding disorder), Sthaulya (Obesity), Tvakroga (Skin diseases)",
+    "therapeutic_uses": "Agnimāndya, Kṛmi roga, Kaṇḍu, Pama, Raktapitta, Sthaulya, Tvakroga",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Malpighiaceae",
     "plant_subfamily": "N/A"
@@ -18677,7 +18677,7 @@
       "karma": "Vātahara, Arśoghna, Bhedana, Sandhānīya, Sara, Vṛṣya"
     },
     "important_formulations": "Prasāranīda-taila (keraliya)",
-    "therapeutic_uses": "Arśa (Piles), Dhātukṣya (Tissue wasting), Pakṣāghāta (Paralysis / Hemiplegia), Sandhisotha (Arthritis), Śotha (Inflammation), Vibandha (Constipation), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Arśa, Dhātukṣya, Pakṣāghāta, Sandhisotha, Śotha, Vibandha, Vraṇa",
     "dose": "Cūrṇa (Powder): 3 to 6 g. Svarasa (Juice): 5 to 10 ml.",
     "plant_family": "Convolvulaceae",
     "plant_subfamily": "Convolvuloideae"
@@ -18724,7 +18724,7 @@
       "karma": "Balya, Bṛṃhaṇa, Garbhadā, Jīvanīya, Kaphavardhaka, Pauṣṭika, Pittahara, Stanyajanana, Vṛṣya"
     },
     "important_formulations": "Daśamūlāriṣṭa, Śatāvarī Taila, Triphalā ghṛta, Meda Guna, Mahameda, Meda-mahameda Guna",
-    "therapeutic_uses": "Bālaroga (Disease of children), Bhagandara (Fistula-in-ano), Gulma (Abdominal lump), Kāmalā (Jaundice), Kārśya (Emaciation), Kāsa (Cough), Kṣaya (Pthisis), Naktāndhya (Night blindness), Netrasrāva (Chronic dacryocystitis or epiphora), Rājayakṣmā (Tuberculosis), Raktapitta (Bleeding disorder), Śoṣa (Emaciation), Śvāsa (Asthma), Timira (Cataract), Visarpa (Erysepales)",
+    "therapeutic_uses": "Bālaroga, Bhagandara, Gulma, Kāmalā, Kārśya, Kāsa, Kṣaya, Naktāndhya, Netrasrāva, Rājayakṣmā, Raktapitta, Śoṣa, Śvāsa, Timira, Visarpa",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Asparagaceae",
     "plant_subfamily": "Nolanoidae / None"
@@ -18769,7 +18769,7 @@
       "karma": "Vātahara, Kaphahara, Dīpana, Vātānulomaka, Pācana"
     },
     "important_formulations": "Pippālyadidhūpana Kṛmikuṭhara Rasa, Nadi Hingu Guna, Vanaspatri Arka Gunah, Vaspika Guna",
-    "therapeutic_uses": "Ādhmāna (Flatulence with gurgling sound), Agnimāndya (Digestive impairment), Ajīrṇa (Indigestion), Āmadoṣa (Products of impaired digestion and metabolism), Aruci (Tastelessness), Gulma (Abdominal lump), Hikkā (Hiccup), Kṛmi (Helminthiasis), Medoroga (Obesity), Udaraśūla (Pain in the abdomen)",
+    "therapeutic_uses": "Ādhmāna, Agnimāndya, Ajīrṇa, Āmadoṣa, Aruci, Gulma, Hikkā, Kṛmi, Medoroga, Udaraśūla",
     "dose": "Cūrṇa (Powder) : 1 to 3 g.",
     "plant_family": "Rubiaceae",
     "plant_subfamily": "Ixoroideae"
@@ -18817,7 +18817,7 @@
       "karma": "Vātānulomaka, Pittahara, Kaphahara, Dīpana, Pācana, Viṣaghna"
     },
     "important_formulations": "Vāyucchaya Surendra Taila",
-    "therapeutic_uses": "Kṛmi (Worm infestation), Śotha (Oedema), Madhumeha (Diabetes mellitus), Medoroga (Obesity), Prameha (Metabolic disorder), Raktavīkāra (Disorders of blood), Tvak roga (Skin diseases), Viṣamajvara (Intermittent fever), Vibandha (Constipation), Yakṛtdaurbalya (Poor function of liver)",
+    "therapeutic_uses": "Kṛmi, Śotha, Madhumeha, Medoroga, Prameha, Raktavīkāra, Tvak roga, Viṣamajvara, Vibandha, Yakṛtdaurbalya",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Gentianaceae",
     "plant_subfamily": "Gentianoideae"
@@ -18865,7 +18865,7 @@
       "karma": "Śleṣma-niḥsāraka, Bṛṃhaṇa, Balya, Dhātuvardhana, Kaphakara, Pittakara, Raktaprasādaka, Uttejaka, Vṛṣya, Vātahara"
     },
     "important_formulations": "Jīvanīya Ghṛta, Nikocaka Guna",
-    "therapeutic_uses": "Āmavāta (Rheumatism), Apasmāra (Epilepsy), Ardita (Facial palsy), Hikkā (Hiccup), Kāsa (Cough), Kṣata (Wound), Kṣaya (Pthisis), Kaṭiśūla (Lower backache), Pāṇḍu (Anaemia), Pārśvaśūla (Intercostal neuralgia and pleurodynia), Pakṣavadha (Paralysis / Hemiplegia), Sandhivāta (Arthritis due to Vata dosa), Śvāsa (Asthma), Vātarakta (Gout)",
+    "therapeutic_uses": "Āmavāta, Apasmāra, Ardita, Hikkā, Kāsa, Kṣata, Kṣaya, Kaṭiśūla, Pāṇḍu, Pārśvaśūla, Pakṣavadha, Sandhivāta, Śvāsa, Vātarakta",
     "dose": "Cūrṇa (Powder): 10 to 20 g.",
     "plant_family": "Pinaceae",
     "plant_subfamily": "N/A"
@@ -18912,7 +18912,7 @@
       "karma": "Grāhī, Pittahara, Stambhana, Tvakdoṣahara, Vātavardhaka, Viṣṭambhakāraka"
     },
     "important_formulations": "Panasa Guna, Apakva Panasa Guna, Panasa, Panasa bija Guna",
-    "therapeutic_uses": "Atisāra (Diarrhoea), Dāha (Burning sensation), Rakta-pitta (Bleeding disorder), Śotha (Inflammation), Tvak roga (Skin diseases)",
+    "therapeutic_uses": "Atisāra, Dāha, Rakta-pitta, Śotha, Tvak roga",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Moraceae",
     "plant_subfamily": "N/A"
@@ -18958,7 +18958,7 @@
       "karma": "Balya, Kaphaghna, Mūtrala, Varṇya, Virecana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Kāmalā (Jaundice), Kaṇḍū (Itching), Mūtraroga (Urinary diseases), Śotha (Inflammation), Udararoga (Diseases of abdomen), Vibandha (Constipation), Visphoṭa (Blister)",
+    "therapeutic_uses": "Kāmalā, Kaṇḍū, Mūtraroga, Śotha, Udararoga, Vibandha, Visphoṭa",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Rubiaceae",
     "plant_subfamily": "Ixoroideae"
@@ -19053,7 +19053,7 @@
       "karma": "Bhedana, Dāhaka, Lekhana, Virecana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Arśa (Piles), Bhagandara (Fistula-in-ano), Kuṣṭha (Leprosy/ diseases of skin), Śvāsa (Asthma), Udararoga (Diseases of abdomen)",
+    "therapeutic_uses": "Arśa, Bhagandara, Kuṣṭha, Śvāsa, Udararoga",
     "dose": "Kṣīra (Latex): 125 to 250 mg.",
     "plant_family": "Euphorbiaceae",
     "plant_subfamily": "Euphorbioideae"
@@ -19100,7 +19100,7 @@
       "karma": "Kaphahara, Nāḍībalya, Śirovirecana, Śvayathuvilayana, Svedajanana, Tīkṣṇavirecana, Vāmaka, Viṣaghna"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Āmavāta (Rheumatism), Anārtava, Apaśmāra (Epilepsy), Ardita (Facial palsy), Avarodhajanya Kāmalā (Obstructive jaundice), Gṛdhrasi (Sciatica), Jalodara (Ascites), Mūtrāvarodha (Urinary obstruction), Netraroga (Diseases of the eye), Pakṣavadha (Paralysis / Hemiplegia), Pārśvaśūla (Intercostal neuralgia and pleurodynia), Plīhā (Splenic disease), Śūla (Pain / Colic), Yakṛtaśotha (Hepatitis)",
+    "therapeutic_uses": "Āmavāta, Anārtava, Apaśmāra, Ardita, Avarodhajanya Kāmalā, Gṛdhrasi, Jalodara, Mūtrāvarodha, Netraroga, Pakṣavadha, Pārśvaśūla, Plīhā, Śūla, Yakṛtaśotha",
     "dose": "Cūrṇa (Powder) : 1 to 3 g.",
     "plant_family": "Aristolochiaceae",
     "plant_subfamily": "N/A"
@@ -19147,7 +19147,7 @@
       "karma": "Pittakaphaśāmaka, Saṅgrāhī, Kaphavātahara, Pittahara"
     },
     "important_formulations": "Asmantaka Guna",
-    "therapeutic_uses": "Bhūtavikāra (Psychotic syndrome), Dāha (Burning sensation), Galagaṇḍa (Goitre), Gaṇḍamālā (Cervical lymphadenitis), Prameha (Metabolic disorder), Raktavikāra (Disorders of blood), Tṛṣṇā (Thirst), Vidāha (Burning sensation), Viṣamjvara (Intermittent fever)",
+    "therapeutic_uses": "Bhūtavikāra, Dāha, Galagaṇḍa, Gaṇḍamālā, Prameha, Raktavikāra, Tṛṣṇā, Vidāha, Viṣamjvara",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Fabaceae",
     "plant_subfamily": "Caesalpinioideae"
@@ -19194,7 +19194,7 @@
       "karma": "Dīpana, Grāhī, Pācana, Rasāyana, Rucya"
     },
     "important_formulations": "Citrakaguṇa",
-    "therapeutic_uses": "Arśa (Piles), Grahaṇī (Malabsorption syndrome), Kāsa (Cough), Kṛmi (Helminthiasis), Kuṣṭha (Leprosy / diseases of skin), Pāṇḍu (Anaemia), Sikatāmeha (Lithuria), Śotha (Oedema), Śūla (Pain)",
+    "therapeutic_uses": "Arśa, Grahaṇī, Kāsa, Kṛmi, Kuṣṭha, Pāṇḍu, Sikatāmeha, Śotha, Śūla",
     "dose": "Cūrṇa (Powder): 0.5 to 2 g.",
     "plant_family": "Plumbaginaceae",
     "plant_subfamily": "N/A"
@@ -19240,7 +19240,7 @@
       "karma": "Vātahara, Kaphahara, Rucya, Raktaprasādana, Medohara, Stanya, Viṣaghna"
     },
     "important_formulations": "Rohitakariṣṭa, Rohitaka lauha, Yakṛtśūla vināśinī Vaṭikā",
-    "therapeutic_uses": "Gulma (Abdominal lump), Kṛmi (Helminthiasis), Kāmalā (Jaundice), Karnaroga (Disease of ear), Kuṣṭha (Leprosy / diseases of skin), Medoroga (Obesity), Netraroga (Diseases of the eye), Plihodara (Splenomegaly), Prameha (Metabolic disorder), Raktadoṣa (Disorders of blood), Raktavīkāra (Disorders of blood), Śūla (Pain / Colic), Svetapradara (Leucorrhoea), Vibandha (Constipation), Vraṇa (Ulcer), Yakṛt (Liver)",
+    "therapeutic_uses": "Gulma, Kṛmi, Kāmalā, Karnaroga, Kuṣṭha, Medoroga, Netraroga, Plihodara, Prameha, Raktadoṣa, Raktavīkāra, Śūla, Svetapradara, Vibandha, Vraṇa, Yakṛt",
     "dose": "Cūrṇa (Powder): 3 to 6 g. Kvātha (Decoction): 50 to 100 ml.",
     "plant_family": "Bignoniaceae",
     "plant_subfamily": "N/A"
@@ -19286,7 +19286,7 @@
       "karma": "Kaphahara, Medohara, Vraṇaśodhana, Grāhī, Visaghna, Vedanāsthāpana, Stambhana, Kṛmighna"
     },
     "important_formulations": "Ayaskṛti, Elādi ghṛta, Sala Guna",
-    "therapeutic_uses": "Agnidaha (Burns), Kaṇḍu (Itching), Kṛmi (Helminthiasis), Kuṣṭha (Leprosy / diseases of skin), Pāṇḍu (Anaemia), Prameha (Metabolic disorder), Raktavīkāra (Disorders of blood), Śotha (Oedema), Upadaṃśa (Syphilis / Soft chancre), Vātavyādhi (Disease due to Vata dosa), Viṣavikāra (Disorders due to poison), Vidradhi (Abscess), Vraṇa (Ulcer), Yonidosa (Disease of female genital tract), Yoniroga (Disease of female genital tract), Karnaroga (Disease of ear), Bādhirya (Deafness), Asthibhagna (Bone fracture)",
+    "therapeutic_uses": "Agnidaha, Kaṇḍu, Kṛmi, Kuṣṭha, Pāṇḍu, Prameha, Raktavīkāra, Śotha, Upadaṃśa, Vātavyādhi, Viṣavikāra, Vidradhi, Vraṇa, Yonidosa, Yoniroga, Karnaroga, Bādhirya, Asthibhagna",
     "dose": "Cūrṇa (Powder): 50 to 100 g for decoction. Kvātha (Decoction): 50 to 100 ml.",
     "plant_family": "Dipterocarpaceae",
     "plant_subfamily": "N/A"
@@ -19333,7 +19333,7 @@
       "karma": "Balya, Bṛṃhaṇa, Mūtrala, Rasāyana, Tridoṣahara, Vātahara, Vṛṣya"
     },
     "important_formulations": "Dashmularishta, Dashmulakwatha",
-    "therapeutic_uses": "Arśa (Piles), Atisāra (Diarrhoea), Chardi (Emesis), Jvara (Fever), Kāsa (Cough), Kṛmi (Worm infestation), Kṣata (Wound), Mūtrakṛcchra (Dysuria), Prameha (Metabolic disorder), Santāpa (Emotional stress), Śoṣa (Cachexia), Śotha (Inflammation), Śukradaurbalya (Seminal stress), Śvāsa (Asthma), Vātaroga (Disease due to Vata dosa), Viṣamjvara (Intermittent fever), Viṣavikāra (Disorders due to poison)",
+    "therapeutic_uses": "Arśa, Atisāra, Chardi, Jvara, Kāsa, Kṛmi, Kṣata, Mūtrakṛcchra, Prameha, Santāpa, Śoṣa, Śotha, Śukradaurbalya, Śvāsa, Vātaroga, Viṣamjvara, Viṣavikāra",
     "dose": "Cūrṇa (Powder): 6 to 12 g. Kvātha (Decoction): 50 to 100 ml.",
     "plant_family": "Fabaceae",
     "plant_subfamily": "Faboideae"
@@ -19380,7 +19380,7 @@
       "karma": "Arśoghna, Kṛmighna, Kaphapittahara, Kuṣṭhaghna, Recaka, Saṅgrāhaka, Vātakara"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Arśa (Piles), Atisāra (Diarrhoea), Bālagraha (Psychotic syndrome of children), Bhrama (Vertigo), Kṛmi (Worm infestation), Kāsa (Cough), Kuṣṭha (Leprosy / diseases of skin), Netraroga (Diseases of the eye), Raktapitta (Bleeding disorder), Śvāsa (Asthma), Viṣavikāra (Disorders due to poison)",
+    "therapeutic_uses": "Arśa, Atisāra, Bālagraha, Bhrama, Kṛmi, Kāsa, Kuṣṭha, Netraroga, Raktapitta, Śvāsa, Viṣavikāra",
     "dose": "Cūrṇa (Powder): 3 to 5 g.",
     "plant_family": "Fabaceae",
     "plant_subfamily": "Mimosoideae"
@@ -19426,7 +19426,7 @@
       "karma": "Kaphapittahara, Rucya, Dīpana, Pācana, Viṣaghna, Varṇya"
     },
     "important_formulations": "Dodi Guna",
-    "therapeutic_uses": "Arśa (Piles), Atisāra (Diarrhoea), Chardi (Emesis), Dāha (Burning sensation), Duṣṭa vraṇa (Non-healing ulcer), Jvara (Fever), Kaṇḍu (Itching), Kṛmi (Helminthiasis), Kuṣṭha (Leprosy / diseases of skin), Prameha (Metabolic disorder), Pravāhikā (Dysentery), Śūla (Pain / Colic), Śoṣa (Emaciation), Śopha (Oedema), Śvitra (Leucoderma / Vitiligo)",
+    "therapeutic_uses": "Arśa, Atisāra, Chardi, Dāha, Duṣṭa vraṇa, Jvara, Kaṇḍu, Kṛmi, Kuṣṭha, Prameha, Pravāhikā, Śūla, Śoṣa, Śopha, Śvitra",
     "dose": "Cūrṇa (Powder): 3 to 6 g. Svarasa (Juice): 10 to 20 ml.",
     "plant_family": "Rutaceae",
     "plant_subfamily": "Aurantioideae"
@@ -19473,7 +19473,7 @@
       "karma": "Tridoṣahara, Bastiśodhaka, Saṃgrāhī, Mūtrala, Vṛṣya, Snehana, Medhya, Rasāyana"
     },
     "important_formulations": "Kaphaja mutra krchranasaka sitivarak, Sitivaraka bija Curna, Sitivara Guna",
-    "therapeutic_uses": "Aśmarī (Calculus), Arśa (Piles), Atisāra (Diarrhoea), Gulma (Abdominal lump), Hṛdroga (Heart disease), Jvara (Fever), Mūtrāghāta (Urinary obstruction), Mūtrakṛcchra (Dysuria), Plīhāroga (Splenic disease), Raktavīkāra (Disorders of blood), Śopha (Oedema)",
+    "therapeutic_uses": "Aśmarī, Arśa, Atisāra, Gulma, Hṛdroga, Jvara, Mūtrāghāta, Mūtrakṛcchra, Plīhāroga, Raktavīkāra, Śopha",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Amaranthaceae",
     "plant_subfamily": "Amaranthoideae"
@@ -19519,7 +19519,7 @@
       "karma": "Kapha Vātahara, Keśya, Kuṣṭhaghna"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Amavata (Rheumatism), Aruṃṣika (Dandruff), Dantaśūla (Tooth ache), Gulma (Abdominal lump), Kuṣṭha (Leprosy / diseases of skin), Plīha-roga (Splenic disease), Udararoga (Diseases of abdomen), Vatarakta (Gout), Vidradhi (Abscess), Visarpa (Erysepales)",
+    "therapeutic_uses": "Amavata, Aruṃṣika, Dantaśūla, Gulma, Kuṣṭha, Plīha-roga, Udararoga, Vatarakta, Vidradhi, Visarpa",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Fabaceae",
     "plant_subfamily": "Faboideae"
@@ -19565,7 +19565,7 @@
       "karma": "Āma Phala: Pittahara, Kaphahara, Grāhī; Pakva-phala: Pittahara, Bṛṃhaṇa, Vṛṣya, Rūcya, Cakṣuṣya, Keśa-Kṛṣṇīkaraṇa"
     },
     "important_formulations": "Gojihvādi Kvātha Cūrṇa",
-    "therapeutic_uses": "Jvara (Fever), Kāsa (Cough), Kṛmi (Worm infestation), Pratisyaya (Coryza), Raktadoṣa (Disorders of blood), Raktapitta (Bleeding disorder), Śukradaurbalya (Seminal stress), Śvāsa (Asthma), Tṛṣṇā (Thirst), Upadaṃśa (Syphilis / Soft chancre), Vatapittajanya Vikāra (Disorders due to Vata and Pitta dosa)",
+    "therapeutic_uses": "Jvara, Kāsa, Kṛmi, Pratisyaya, Raktadoṣa, Raktapitta, Śukradaurbalya, Śvāsa, Tṛṣṇā, Upadaṃśa, Vatapittajanya Vikāra",
     "dose": "Pakva phala pānaka (Syrup of ripened fruit): 10 to 20 ml.",
     "plant_family": "Boraginaceae",
     "plant_subfamily": "Cordioideae"
@@ -19611,7 +19611,7 @@
       "karma": "Pittahara, Kaphahara, Keśya, Viṣṭambhī, Grāhī, Kṛmighna, Pācana, Viṣaghna"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Amadosa (Semi-digested food metabolites), Bahuvrana (Multiple injuries / Ulcers), Drk-jata-masurika (Ocular manifestation of small pox), Kṛmi-śūla (Colic due to worm infestation), Kuṣṭha (Leprosy / diseases of skin), Lūtāviṣa (Spider bite), Masurika (Small pox), Raktadoṣa (Disorders of blood), Tvak roga (Skin diseases), Visarpa (Erysepales), Visphota (Blister), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Amadosa, Bahuvrana, Drk-jata-masurika, Kṛmi-śūla, Kuṣṭha, Lūtāviṣa, Masurika, Raktadoṣa, Tvak roga, Visarpa, Visphota, Vraṇa",
     "dose": "Kvātha (Decoction): 50 to 100 ml.",
     "plant_family": "Boraginaceae",
     "plant_subfamily": "Cordioideae"
@@ -19657,7 +19657,7 @@
       "karma": "Arśoghna, Śothahara, Lekhana, Viṣaghna, Dīpana, Pācana, Śūlapraśamana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Arbuda (Tumor), Arśa (Piles), Raktārśa (Bleeding piles), Śotha (Oedema), Sarpadamśa (Snake bite), Ślīpada (Filariasis), Udararoga (Diseases of abdomen)",
+    "therapeutic_uses": "Agnimāndya, Arbuda, Arśa, Raktārśa, Śotha, Sarpadamśa, Ślīpada, Udararoga",
     "dose": "Cūrṇa (Powder) : 5 to 10 g daily dose after Śodhana.",
     "plant_family": "Araceae",
     "plant_subfamily": "Aroideae"
@@ -19705,7 +19705,7 @@
       "karma": "Lekhana, Virecana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Jvara (Fever), Sphita Kṛmi (Tape worm), Vātarakta (Gout)",
+    "therapeutic_uses": "Jvara, Sphita Kṛmi, Vātarakta",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Dryopteridaceae",
     "plant_subfamily": "N/A"
@@ -19751,7 +19751,7 @@
       "karma": "Vātahara, Kaphahara, Varṇaprasādana, Anulomana, Lekhana, Viṣaghnī"
     },
     "important_formulations": "Sahacarādi Taila, Balā Taila, Balādhātryādi Taila",
-    "therapeutic_uses": "Aśmarī (Calculus), Kaṇḍu (Itching), Kaphavikāra (Disorders due to vitiation of Kapha dosa), Kāsa (Cough), Koṭha (Ringworm / Impetigo / Erythema), Mūtrakṛcchra (Dysuria), Piḍakā (Carbuncle), Prameha (Metabolic disorder), Śvāsa (Asthma), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Aśmarī, Kaṇḍu, Kaphavikāra, Kāsa, Koṭha, Mūtrakṛcchra, Piḍakā, Prameha, Śvāsa, Vraṇa",
     "dose": "Cūrṇa (Powder): 3 to 5 g.",
     "plant_family": "Lamiaceae",
     "plant_subfamily": "Lamioideae"
@@ -19797,7 +19797,7 @@
       "karma": "Kaphahara, Mūtrala, Pācana, Pittahara, Rūcya, Viṣaghna"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Kāmalā (Jaundice), Plīhāvṛddhi (Splenomegaly), Prameha (Metabolic disorder), Raktavikāra (Disorders of blood), Śotha (Inflammation), Yakṛdroga (Diseases of liver)",
+    "therapeutic_uses": "Agnimāndya, Kāmalā, Plīhāvṛddhi, Prameha, Raktavikāra, Śotha, Yakṛdroga",
     "dose": "Cūrṇa (Powder): 5 to 10 g.",
     "plant_family": "Salicaceae",
     "plant_subfamily": "N/A"
@@ -19845,7 +19845,7 @@
       "karma": "Anulomana, Dīpana, Hṛdya, Kaphahara, Mūtrala, Pittasāraka, Śiraśśodhaka, Vātahara"
     },
     "important_formulations": "Ela Arka Gunah, Bhadra Arka Gunah, Sthula Ela Guna, Sthulela Guna",
-    "therapeutic_uses": "Aruci (Tastelessness), Bastivikāra, Chardi (Emesis), Dantaroga (Disease of tooth), Hṛllāsa (Nausea), Kaṇḍu (Itching), Kaṇṭharoga (Disease of throat), Kāsa (Cough), Mukharoga (Disease of mouth), Raktapitta (Bleeding disorder), Raktavikāra (Disorders of blood), Śiroroga (Disease of head), Śūla (Pain / colic), Śvāsa (Asthma), Tṛṣā (Thirst), Tvakroga (Skin diseases), Viṣavikāra (Disorders due to poison), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Aruci, Bastivikāra, Chardi, Dantaroga, Hṛllāsa, Kaṇḍu, Kaṇṭharoga, Kāsa, Mukharoga, Raktapitta, Raktavikāra, Śiroroga, Śūla, Śvāsa, Tṛṣā, Tvakroga, Viṣavikāra, Vraṇa",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Zingiberaceae",
     "plant_subfamily": "Alpinioideae"
@@ -19892,7 +19892,7 @@
       "karma": "Śothahara, Vamana, Virecana, Viṣaghna"
     },
     "important_formulations": "Kāśmaryādi ghṛta",
-    "therapeutic_uses": "Āmavata (Rheumatism), Aruci (Tastelessness), Atisāra (Diarrhoea), Dāha (Burning sensation), Hikkā (Hiccup), Jīrṇa Āntraśotha (Chronic intestinal pain), Jīrṇajvara (Chronic fever), Jvara (Fever), Kāsa (Cough), Kṛmi roga (Worm infestation), Pravāhikā (Dysentery), Sarpa viṣa (Snake poison), Śotha (Inflammation), Śvāsa (Asthma), Vātakapha Jvara (Fever due to Vata Kapha), Visphoṭaka (Blisterous eruption), Vraṇa (Ulcer), Yoni roga (Disease of female genital tract)",
+    "therapeutic_uses": "Āmavata, Aruci, Atisāra, Dāha, Hikkā, Jīrṇa Āntraśotha, Jīrṇajvara, Jvara, Kāsa, Kṛmi roga, Pravāhikā, Sarpa viṣa, Śotha, Śvāsa, Vātakapha Jvara, Visphoṭaka, Vraṇa, Yoni roga",
     "dose": "Cūrṇa (Powder): 3 to 5 g.",
     "plant_family": "Cucurbitaceae",
     "plant_subfamily": "Cucurbitoideae"
@@ -19939,7 +19939,7 @@
       "karma": "Grāhī, Jvaraghna, Kaphahara, Mūtrala, Rakṣoghna, Vedanāsthāpana, Vraṇa Śodhana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Amavāta (Rheumatism), Śvitra (Leucoderma / Vitiligo), Atisāra (Diarrhoea), Kāmalā (Jaundice), Karṇaroga (Disease of ear), Pravāhikā (Dysentery), Raktaṣṭhivana (Haemoptysis), Raktapitta (Bleeding disorder), Vātarakta (Gout)",
+    "therapeutic_uses": "Amavāta, Śvitra, Atisāra, Kāmalā, Karṇaroga, Pravāhikā, Raktaṣṭhivana, Raktapitta, Vātarakta",
     "dose": "Cūrṇa (Powder): 3 to 6 g. Kaṣāya (Decoction): 50 to 100 ml.",
     "plant_family": "Salicaceae",
     "plant_subfamily": "Salicoideae"
@@ -19987,7 +19987,7 @@
       "karma": "Kaphahara, Dīpana, Pācana, Vātānulomana, Mūtrala, Vātaghna, Koṣṭhavāta-śamana, Vedanāhara"
     },
     "important_formulations": "Karpurādi Cūrṇa",
-    "therapeutic_uses": "Ādhmāna (Flatulence with gurgling sound), Aruci (Tastelessness), Gulma (Abdominal lump), Mukhadurgandha (Halitosis), Sandhivata (Arthritis), Śūla (Pain / Colic)",
+    "therapeutic_uses": "Ādhmāna, Aruci, Gulma, Mukhadurgandha, Sandhivata, Śūla",
     "dose": "Cūrṇa (Powder): 250 to 625 mg.",
     "plant_family": "Schisandraceae",
     "plant_subfamily": "N/A"
@@ -20034,7 +20034,7 @@
       "karma": "Apakva: Lekhana; Pakva: Pittahara, Kaphahara, Vātaprakopaka, Grāhī, Durjara, Puṣṭikara"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Pakva phala: Aśmarī (Calculus), Aruci (Tastelessness), Kapharoga (Disease due to Kapha dosa), Prameha (Metabolic disorder), Raktadoṣa (Disorders of blood). Apakva phala: Atisāra (Diarrhoea), Bhagna (Fractures), Dāha (Burning sensation), Kuṣṭha (Leprosy / diseases of skin), Śotha (Oedema), Medoroga (Obesity), Pravāhikā (Dysentery), Raktapitta (Bleeding disorder), Udarda (Urticaria), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Pakva phala: Aśmarī, Aruci, Kapharoga, Prameha, Raktadoṣa, Bhagna, Dāha, Kuṣṭha, Śotha, Medoroga, Pravāhikā, Raktapitta, Udarda, Vraṇa",
     "dose": "Pakva phala: Cūrṇa (Powder): 5 to 10 g.",
     "plant_family": "Ebenaceae",
     "plant_subfamily": "N/A"
@@ -20080,7 +20080,7 @@
       "karma": "Pittahara, Kaphahara, Viṣaghna"
     },
     "important_formulations": "Trāyamāṇādya Ghṛta, Trayamana Guna, Trayanti Guna, Trayamana Kvatha, Mahāpaiśācika Ghṛta",
-    "therapeutic_uses": "Atisāra (Diarrhoea), Bhrama (Vertigo), Gulma (Abdominal lump), Hṛdroga (Heart disease), Jvara (Fever), Raktapitta (Bleeding disorder), Raktavīkāra (Disorders of blood), Śūla (Pain / Colic), Sutikaśūla (Postpartum abdominal pain), Tṛṣṇā (Thirst), Visama & Paittika, Visarpa (Erysepales)",
+    "therapeutic_uses": "Atisāra, Bhrama, Gulma, Hṛdroga, Jvara, Raktapitta, Raktavīkāra, Śūla, Sutikaśūla, Tṛṣṇā, Visama , Paittika, Visarpa",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Gentianaceae",
     "plant_subfamily": "N/A"
@@ -20127,7 +20127,7 @@
       "karma": "Kaphaghna, Pācana, Śothaghna, Vātahara"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Āmavāta (Rheumatism), Vidradhi (Abscess)",
+    "therapeutic_uses": "Āmavāta, Vidradhi",
     "dose": "Cūrṇa (Powder) : 3 to 6 g.",
     "plant_family": "Boraginaceae",
     "plant_subfamily": "Cordioideae"
@@ -20174,7 +20174,7 @@
       "karma": "Vātahara, Kaphahara, Rasāyana, Ubhayatobhāgahara"
     },
     "important_formulations": "Tuvaraka Taila, Tuvarak Guna, Tuvaraka Taila Rasayana, Tuvaraka Tailah",
-    "therapeutic_uses": "Ānāha (Distension of abdomen due to obstruction to passage of urine and stools), Arśa (Piles), Gṛdhrasī (Sciatica), Gaṇḍamālā (Cervical lymphadenitis), Gulma (Abdominal lump), Jvara (Fever), Kaṇḍu (Itching), Kaphavataja roga (Disorders due to Kapha & Vata dosa), Kṛmi (Helminthiasis), Kuṣṭha (Leprosy / diseases of skin), Śotha (Oedema), Prameha (Metabolic disorder), Raktavīkāra (Disorders of blood), Tvak roga (Skin diseases), Udara (Urticaria), Udavarta (A condition like partial intestinal obstruction), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Ānāha, Arśa, Gṛdhrasī, Gaṇḍamālā, Gulma, Jvara, Kaṇḍu, Kaphavataja roga, Kṛmi, Kuṣṭha, Śotha, Prameha, Raktavīkāra, Tvak roga, Udara, Udavarta, Vraṇa",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Achariaceae",
     "plant_subfamily": "N/A"
@@ -20221,7 +20221,7 @@
       "karma": "Jvaraghna, Kapha-pittahara, Pauṣṭika, Śothahara, Stambhana, Udardapraśamana"
     },
     "important_formulations": "Bhissata Gunah",
-    "therapeutic_uses": "Atisāra (Diarrhoea), Raktapitta (Bleeding disorder), Udararoga (Diseases of abdomen), Vidradhi (Abscess), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Atisāra, Raktapitta, Udararoga, Vidradhi, Vraṇa",
     "dose": "Cūrṇa (Powder) : 3 to 6 g.",
     "plant_family": "Molluginaceae",
     "plant_subfamily": "N/A"
@@ -20268,7 +20268,7 @@
       "karma": "Balya, Durjara, Hṛdya, Kaphavātahara, Pittahara, Puṃstvahara, Vātakara"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Prameha (Metabolic disorder), Śaitya (Milk), Santarpaṇajanya roga, Sthaulya (Obesity)",
+    "therapeutic_uses": "Prameha, Śaitya, Santarpaṇajanya roga, Sthaulya",
     "dose": "Svarasa (Juice): 10 to 20 ml.",
     "plant_family": "Poaceae",
     "plant_subfamily": "Panicoideae"
@@ -20315,7 +20315,7 @@
       "karma": "Anulomana, Kṛmighna, Kuṣṭhaghna, Durgandhanāśana"
     },
     "important_formulations": "Lavaṅgādhya-cūrṇa, Baluka Guna",
-    "therapeutic_uses": "Kaṇḍu (Itching), Kṛmi (Helminthiasis), Kuṣṭha (Leprosy / diseases of skin), Raktapitta (Bleeding disorder)",
+    "therapeutic_uses": "Kaṇḍu, Kṛmi, Kuṣṭha, Raktapitta",
     "dose": "Cūrṇa (Powder): 3 to 6 g.",
     "plant_family": "Gisekiaceae",
     "plant_subfamily": "N/A"
@@ -20362,7 +20362,7 @@
       "karma": "Mūtrala, Rakta-stambhana, Rasāyana, Śothahara, Sraṃsana, Vedanāśāmaka"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Arśa (Piles), Karṇaśūla (Otalgia), Asṛgdara (Menorrhagia or metrorrhagia or both), Dantaśūla (Tooth ache), Kāsa (Cough), Raktasrāva (Haemorrhage), Śotha (Oedema), Śvāsa (Asthma), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Arśa, Karṇaśūla, Asṛgdara, Dantaśūla, Kāsa, Raktasrāva, Śotha, Śvāsa, Vraṇa",
     "dose": "Patra Svarasa (Leaf Juice): 5 to 10 ml.",
     "plant_family": "Plantaginaceae",
     "plant_subfamily": "N/A"
@@ -20408,7 +20408,7 @@
       "karma": "Cedana, Dīpana, Kaphahara, Mūtrala, Pittahara, Viṣaghna"
     },
     "important_formulations": "Venta Guṇa",
-    "therapeutic_uses": "Arśa (Piles), Aruci (Tastelessness), Aśmarī (Calculus), Dāha (Burning sensation), Jvara (Fever), Kāsa (Cough), Kuṣṭha (Leprosy / diseases of skin), Mūtrakṛcchra (Dysuria), Prameha (Metabolic disorder), Pravāhikā (Dysentery), Raktapitta (Bleeding disorder), Śotha (Inflammation), Tṛṣṇā (Thirst), Tvakroga (Skin diseases), Visarpa (Erysepales), Yoniroga (Disease of female genital tract)",
+    "therapeutic_uses": "Arśa, Aruci, Aśmarī, Dāha, Jvara, Kāsa, Kuṣṭha, Mūtrakṛcchra, Prameha, Pravāhikā, Raktapitta, Śotha, Tṛṣṇā, Tvakroga, Visarpa, Yoniroga",
     "dose": "Kvatha (Decoction): 50 to 100 ml. Cūrṇa (Powder): 5 to 10 g.",
     "plant_family": "Arecaceae",
     "plant_subfamily": "Calamoideae"
@@ -20454,7 +20454,7 @@
       "karma": "Kaphaniḥsāraka, Dīpana, Virecana, Kuṣṭhaghna"
     },
     "important_formulations": "Vṛścikali Guna",
-    "therapeutic_uses": "Mahākuṣṭhā (Group of major skin diseases), Agnimāndya (Digestive impairment), Vibandha (Constipation), Yonidoṣa (Disorder of female genital tract), Śvāsa (Asthma), Śotha (Inflammation), Mūtrakṛcchra (Dysuria)",
+    "therapeutic_uses": "Mahākuṣṭhā, Agnimāndya, Vibandha, Yonidoṣa, Śvāsa, Śotha, Mūtrakṛcchra",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Apocynaceae",
     "plant_subfamily": "Asclepiadoideae"
@@ -20502,7 +20502,7 @@
       "karma": "Anulomaka, Bhedana, Dīpana, Kaphahara, Mūtrala, Pācana, Vātahara"
     },
     "important_formulations": "Amlavetasa Guna, Amlavetasa Phala, Amlavetasa Phala Guna",
-    "therapeutic_uses": "Ānāha (Distension of abdomen due to obstruction to passage of urine and stools), Ajīrṇa (Indigestion), Aśmarī (Calculus), Arśa (Piles), Aruci (Tastelessness), Gulma (Abdominal lump), Hṛdroga (Heart disease), Hikkā (Hiccup), Kṛmi (Worm infestation), Kāsa (Cough), Plīhāroga (Splenic disease), Śūla (Pain / Colic), Śvāsa (Asthma), Udāvarta (Upward movement of gases), Vibandha (Constipation)",
+    "therapeutic_uses": "Ānāha, Ajīrṇa, Aśmarī, Arśa, Aruci, Gulma, Hṛdroga, Hikkā, Kṛmi, Kāsa, Plīhāroga, Śūla, Śvāsa, Udāvarta, Vibandha",
     "dose": "Svarasa (Juice): 5 to 10 ml.",
     "plant_family": "Clusiaceae",
     "plant_subfamily": "N/A"
@@ -20549,7 +20549,7 @@
       "karma": "Anulomana, Kaphahara, Viṣaghna, Hṛdbalya, Jvaraghna"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Ānāha (Distension of abdomen due to obstruction to passage of urine and stools), Ardita (Facial palsy), Daṃśaviṣa (Poisoning due to bites), Garbhāśayaśūla (Uterine pain), Hṛdroga (Heart disease), Pakṣavadha (Paralysis/Hemiplegia), Udaraśūla (Pain in the abdomen), Vṛścika Daṃśa (Scorpion bites), Vātaroga (Disease due to Vata dosa), Vātika Unmāda (Mania / Psychosis), Granthikajvara (Bubonic plague)",
+    "therapeutic_uses": "Ānāha, Ardita, Daṃśaviṣa, Garbhāśayaśūla, Hṛdroga, Pakṣavadha, Udaraśūla, Vṛścika Daṃśa, Vātaroga, Vātika Unmāda, Granthikajvara",
     "dose": "Cūrṇa (Powder): 1 to 3 g.",
     "plant_family": "Asteraceae",
     "plant_subfamily": "Asteroideae"
@@ -20595,7 +20595,7 @@
       "karma": "Ārtavapravartaka, Balya, Dantya, Dīpana, Kaṇṭhya, Mukhadurgandhanasana, Pācana, Pittahara, Pratiduṣaka, Sugandhi, Śukrajanana, Uttejaka, Vātahara, Vātanulomaka, Vraṇaśodhaka, Vraṇaropaka"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Ādhmāna (Flatulence with gurgling sound), Āmadośa (Products of impaired digestion and metabolism), Āmāsaya śūla (Peptic ulcer), Āntrika pratidūsaka (Enteritis), Arśa (Piles), Chardi (Emesis), Dantaśūla (Toothache), Dhvajabhaṅga (Failure of penile erection), Kṛmi (Helminthiasis/Worm infestation), Kṣayaja vraṇa (Tubercular wound), Mukhaśoṣa (Dryness of mouth), Nādiśūla (Acute pain of nerve origin), Pīnasa (Chronic rhinitis/Sinusitis), Prātiśyāya (Coryza), Rājayakṣmā (Tuberculosis), Raktavīkāra (Disorders of blood), Śūla (Pain), Tṛṣṇā (Thirst), Vṛścika daṃśa (Scorpion bite)",
+    "therapeutic_uses": "Ādhmāna, Āmadośa, Āmāsaya śūla, Āntrika pratidūsaka, Arśa, Chardi, Dantaśūla, Dhvajabhaṅga, Kṛmi, Kṣayaja vraṇa, Mukhaśoṣa, Nādiśūla, Pīnasa, Prātiśyāya, Rājayakṣmā, Raktavīkāra, Śūla, Tṛṣṇā, Vṛścika daṃśa",
     "dose": "1 to 3 drops.",
     "plant_family": "Lauraceae",
     "plant_subfamily": "N/A"
@@ -20641,7 +20641,7 @@
       "karma": "Pūtihara, Saṅgrāhī, Svedala, Uttejaka, Vātahara, Vātānulomaka, Vedanāsthāpana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Āmavāta (Rheumatism), Aṅkuśa kṛmi (Hookworm), Atisāra (Diarrhoea), Dantaśūla (Toothache), Gṛdhrasī (Sciatica), Jvara (Fever), Nāḍiśūla (Acute pain of nerve origin), Udarakṛmi (Intestinal worms), Vāta-rakta (Gout)",
+    "therapeutic_uses": "Āmavāta, Aṅkuśa kṛmi, Atisāra, Dantaśūla, Gṛdhrasī, Jvara, Nāḍiśūla, Udarakṛmi, Vāta-rakta",
     "dose": "0.1 to 0.5 ml.",
     "plant_family": "Ericaceae",
     "plant_subfamily": "Ericoideae"
@@ -20690,7 +20690,7 @@
       "karma": "Agnidīpana, Anabhiṣyandī, Āyuṣya, Balya, Cakṣuṣya, Dīpana, Hṛdya, Kāntipradā, Medhya, Ojovardhaka, Rasāyana, Rucya, Śleṣmavardhana, Snehana, Śukravardhaka, Tejobalakara, Tvacya, Vātapittapraśamana, Vayasthāpana, Viṣahara, Vṛṣya"
     },
     "important_formulations": "Brahmi ghṛta, Triphala ghṛta, Aśoka ghṛta, Elādi ghṛta, Cāṅgerī ghṛta, Amṛtā ghṛta",
-    "therapeutic_uses": "Agnidagdha (Accidental burns), Amlapitta (Hyperacidity), Apasmāra (Epilepsy), Aruci (Tastelessness), Grahaṇī (Malabsorption syndrome), Jīrṇajvara (Chronic fever), Karṇaśūla (Otalgia), Kṣatakṣīṇa (Debility due to chest injury), Mada (Intoxication), Mūrchā (Syncope), Śiraḥśūla (Headache), Smṛtināśa (Loss of memory), Śoṣa (Cachexia), Unmāda (Mania/psychosis), Viṣamajvara (Intermittent fever), Visarpa (Erysepales), Viṣavikāra (Disorders due to poison), Yoniśūla (Pain in female genital tract)",
+    "therapeutic_uses": "Agnidagdha, Amlapitta, Apasmāra, Aruci, Grahaṇī, Jīrṇajvara, Karṇaśūla, Kṣatakṣīṇa, Mada, Mūrchā, Śiraḥśūla, Smṛtināśa, Śoṣa, Unmāda, Viṣamajvara, Visarpa, Viṣavikāra, Yoniśūla",
     "dose": "5 to 20 ml.",
     "plant_family": "N/A (Animal-derived product - Clarified butter/Ghee)",
     "plant_subfamily": "N/A"
@@ -20739,7 +20739,7 @@
       "karma": "Svādukara, Mūtra śodhaka, Rakta śodhaka, Nātipittakṛt, Kaphavṛddhikara, Vātaghna, Kṛmivṛddhikara, Balya, Vṛṣya, Medovṛddhikara"
     },
     "important_formulations": "Sharavarignda, Kumariasava, Madhavasava",
-    "therapeutic_uses": "Mūtrakāra, Vātaroga (Disease due to Vāta Doṣa), Daurbalya (Weakness), Dhātukṣaya (Tissue wasting)",
+    "therapeutic_uses": "Mūtrakāra, Vātaroga, Daurbalya, Dhātukṣaya",
     "dose": "5 to 30 g",
     "plant_family": "Poaceae",
     "plant_subfamily": "Panicoideae"
@@ -20799,7 +20799,7 @@
       "karma": "Āhlādana, Alasyahara, Balya, Buddhiprada, Dīpana, Hṛdya, Hṛtvalakara, Kaphahara, Klamahara, Medohara, Nidrāhara, Pācana, Pathya, Pittaśamaka, Rucya, Santarpaṇa, Saumya, Śramahara, Tarpaṇa, Vātahara, Viṣahara, Vṛṣya"
     },
     "important_formulations": "Aśvagandhādyariṣṭa, Drakshāsava, Kumāryāsava, Jīrakādyariṣṭa",
-    "therapeutic_uses": "Ajīrṇa (Dyspepsia), Bhrānti (Mental confusion), Chardi (Emesis), Dāha (Burning sensation), Krodha (Anger), Moha (Delusion), Mukhaśoṣa (Dryness of mouth), Mūrchā (Syncope), Śoṣa (Cachexia), Tandrā (Drowsiness), Tṛṣṇā (Thirst), Vibandha (Constipation), Viṣavikāra (Disorders due to poison)",
+    "therapeutic_uses": "Ajīrṇa, Bhrānti, Chardi, Dāha, Krodha, Moha, Mukhaśoṣa, Mūrchā, Śoṣa, Tandrā, Tṛṣṇā, Vibandha, Viṣavikāra",
     "dose": "Q.S. (Quantum Sufficit)",
     "plant_family": "N/A (Not a botanical source - Water)",
     "plant_subfamily": "N/A"
@@ -20845,7 +20845,7 @@
       "karma": "Cakṣuṣya, Durgandhanāsaka, Hṛdya, Lekhana, Madakāraka, Medhya, Pācana, Tridoṣahara, Vedanāsthāpana, Vṛṣya"
     },
     "important_formulations": "Karpūra rasa, Karpūrāsava, Arka Karpūra, Khadirādivatī, Mṛdvīkāriṣṭa",
-    "therapeutic_uses": "Ādhmāna (Flatulence with gurgling sound), Agnimāndya (Digestive impairment), Amavāta (Rheumatism), Aruci (Tastelessness), Atisāra (Diarrhoea), Dāha (Burning sensation), Dantapūya (Pyorrhoea), Dantaśūla (Toothache), Jīrṇapratiśyāya (Chronic sinusitis), Kaṇḍu (Itching), Kaṇṭharoga (Disease of throat), Kāsa (Cough), Klaibya (Male impotence), Kṛmi (Helminthiasis/Worm infestation), Kuṣṭha (Diseases of skin), Medoroga (Obesity), Pārśvaśūla (Intercostal neuralgia and pleurodynia), Sandhiśūla (Joint pain), Śvāsa (Dyspnoea/Asthma), Tṛṣṇā (Thirst), Tvakroga (Skin diseases), Vicarcikā (Eczema), Viṣavikāra (Disorders due to poison), Visūcikā (Gastro-enteritis with piercing pain), Vṛkkaroga (Renal disorder)",
+    "therapeutic_uses": "Ādhmāna, Agnimāndya, Amavāta, Aruci, Atisāra, Dāha, Dantapūya, Dantaśūla, Jīrṇapratiśyāya, Kaṇḍu, Kaṇṭharoga, Kāsa, Klaibya, Kṛmi, Kuṣṭha, Medoroga, Pārśvaśūla, Sandhiśūla, Śvāsa, Tṛṣṇā, Tvakroga, Vicarcikā, Viṣavikāra, Visūcikā, Vṛkkaroga",
     "dose": "125 to 375 mg.",
     "plant_family": "Lauraceae (Cinnamomum camphora); Lamiaceae (Ocimum kilimandscharicum)",
     "plant_subfamily": "N/A; Nepetoideae"
@@ -20892,7 +20892,7 @@
       "karma": "Agnīkṛta, Kaphaghna, Mukhaśodhaka, Durgandhanāsana, Vaktrakledanāśana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Tṛṣṇā (Thirst), Garbhiṇīchardi (Morning sickness), Dantaveṣṭaroga (Gingivitis), Kaphajanya pīḍā (Pain due to Kapha Doṣa)",
+    "therapeutic_uses": "Tṛṣṇā, Garbhiṇīchardi, Dantaveṣṭaroga, Kaphajanya pīḍā",
     "dose": "2 to 6 drops.",
     "plant_family": "Myrtaceae",
     "plant_subfamily": "Myrtoideae"
@@ -20943,7 +20943,7 @@
       "karma": "Agnidīpana, Cakṣuṣya, Pittapraśamana, Prasādana, Ropaṇa, Sandhāna, Śleṣmapraśamana, Śodhana, Tridoṣapraśamana, Vātapittaghna, Viṣaghna"
     },
     "important_formulations": "Mahādvāsava, Cyavanapraśā, Kutajavaleha",
-    "therapeutic_uses": "Arśa (Piles), Atisāra (Diarrhoea), Chardi (Emesis), Dāha (Burning sensation), Hikkā (Hiccup), Kāsa (Cough), Kṛmi (Helminthiasis / Worm infestation), Kṣata (Wound), Kṣaya (Pthisis), Kuṣṭha (Diseases of skin), Medoroga (Obesity), Prameha (Increased frequency and turbidity of urine), Raktapitta (Bleeding disorder), Raktavikāra (Disorders of blood), Śvāsa (Asthma), Tṛṣṇā (Thirst), Viṣavikāra (Disorders due to poison)",
+    "therapeutic_uses": "Arśa, Atisāra, Chardi, Dāha, Hikkā, Kāsa, Kṛmi, Kṣata, Kṣaya, Kuṣṭha, Medoroga, Prameha, Raktapitta, Raktavikāra, Śvāsa, Tṛṣṇā, Viṣavikāra",
     "dose": "1 to 10 ml.",
     "plant_family": "N/A (Animal-derived product - Apidae, Insecta)",
     "plant_subfamily": "N/A"
@@ -20989,7 +20989,7 @@
       "karma": "Dīpana, Kaphahara, Mukha-śodhana, Pācana, Pūtihara, Śūlapraśamana, Uttejaka, Vātahara, Vedanāsthāpana"
     },
     "important_formulations": "Used as single drug",
-    "therapeutic_uses": "Ajīrṇa (Dyspepsia), Dantaśūla (Toothache), Jīrṇa jvara (Chronic fever), Kaphaja vikāra (Disorders due to Kapha Doṣa), Mukha-Roga (Diseases of mouth), Udaraśūla (Pain in the abdomen), Śūla (Pain / Colic), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Ajīrṇa, Dantaśūla, Jīrṇa jvara, Kaphaja vikāra, Mukha-Roga, Udaraśūla, Śūla, Vraṇa",
     "dose": "10 to 30 mg.",
     "plant_family": "Lamiaceae",
     "plant_subfamily": "Nepetoideae"
@@ -21036,7 +21036,7 @@
       "karma": "Cakṣuṣya, Dhātuvardhaka, Hṛdya, Pittahara, Vātahara, Vṛṣya"
     },
     "important_formulations": "Cyavanapraśā, Vāsāvaleha, Kantakāryāvaleha",
-    "therapeutic_uses": "Arśa (Piles), Aruci (Tastelessness), Bhrama (Vertigo), Chardi (Emesis), Dāha (Burning sensation), Daurbalya (Weakness), Jvara (Fever), Kṛmi (Helminthiasis / Worm infestation), Kṣata (Wound), Kṣīṇa (Impaired), Kṣaya, Madātyaya (Alcoholism), Moha (Delusion), Mūrchā (Syncope), Raktapitta (Bleeding disorder), Raktasruti (Haemorrhage), Raktavikāra (Disorders of blood), Śrama (Fatigue / Lethargy), Tṛṣṇā (Thirst), Vātarakta (Gout), Viṣavikāra (Disorders due to poison)",
+    "therapeutic_uses": "Arśa, Aruci, Bhrama, Chardi, Dāha, Daurbalya, Jvara, Kṛmi, Kṣata, Kṣīṇa, Kṣaya, Madātyaya, Moha, Mūrchā, Raktapitta, Raktasruti, Raktavikāra, Śrama, Tṛṣṇā, Vātarakta, Viṣavikāra",
     "dose": "5 to 30 g.",
     "plant_family": "Poaceae (Saccharum officinarum)",
     "plant_subfamily": "Panicoideae"
@@ -21087,7 +21087,7 @@
       "karma": "Dīpana, Garbhāśayottejaka, Kaphahara, Kṛmighna, Lekhana, Mūtrajanana, Snehana, Tvacya, Vātahara, Vedanāsthāpana, Vidāhī"
     },
     "important_formulations": "Unmatta Taila, Pañcānana Taila, Sindurādya Taila, Jīrakādya Taila, Arkamaṇśilā Taila",
-    "therapeutic_uses": "Aṅgamarda (Bodyache), Arśa (Piles), Dantapūya (Pyorrhoea), Duṣṭakṛmi (Worm infestation), Kaṇḍu (Itching), Kasanaroga, Koṭha (Urticaria), Kṛmi (Helminthiasis / Worm infestation), Kuṣṭha (Diseases of skin), Netraroga (Diseases of eyes), Plīhā (Splenic disease), Śiroroga (Disease of head), Ślīpada (Filariasis), Śvetakuṣṭha (Leucoderma), Tvak roga (Skin disease), Vāta vikāra (Disorder due to Vāta Doṣa), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Aṅgamarda, Arśa, Dantapūya, Duṣṭakṛmi, Kaṇḍu, Kasanaroga, Koṭha, Kṛmi, Kuṣṭha, Netraroga, Plīhā, Śiroroga, Ślīpada, Śvetakuṣṭha, Tvak roga, Vāta vikāra, Vraṇa",
     "dose": "5 to 10 ml.",
     "plant_family": "Brassicaceae",
     "plant_subfamily": "N/A"
@@ -21133,7 +21133,7 @@
       "karma": "Anulomana, Dīpana, Durgandhanāśaka, Kaphaniḥsāraka, Kṛmighna, Mūtrala, Pācana, Pratiduṣaka, Pūtihara, Śūlaghna, Svedajanana, Uttejaka, Vātahara, Vedanāsthāpaka, Viṣamajvarapratibandhaka"
     },
     "important_formulations": "Pañcaguṇa Taila",
-    "therapeutic_uses": "Agnimāndya (Digestive impairment), Amāvata (Rheumatism), Bāla pratisyaya (Sinusitis in children), Bastiśotha (Cystitis), Duṣṭa vraṇa (Non-healing ulcer), Jīrṇapūyāmeha (Chronic pyaemia), Jvara (Fever), Kāsa (Cough), Kṛmi (Helminthiasis / worm infestation), Pīnasa (Chronic rhinitis / Sinusitis), Pratiśyāya (Coryza), Sandhivāta (Osteoarthritis), Śiraśūla (Headache), Sūtikā Jvara (Puerperal fever), Śvāsa (Dyspnoea / Asthma), Tvakroga (Skin disease), Yakṣmā (Tuberculosis)",
+    "therapeutic_uses": "Agnimāndya, Amāvata, Bāla pratisyaya, Bastiśotha, Duṣṭa vraṇa, Jīrṇapūyāmeha, Jvara, Kāsa, Kṛmi, Pīnasa, Pratiśyāya, Sandhivāta, Śiraśūla, Sūtikā Jvara, Śvāsa, Tvakroga, Yakṣmā",
     "dose": "1 to 5 drops.",
     "plant_family": "Myrtaceae",
     "plant_subfamily": "Myrtoideae"
@@ -21184,7 +21184,7 @@
       "karma": "Balya, Cakṣuṣya, Dīpana, Garbhāśaya Śodhana, Keśya, Medhya, Sandhānīya, Snehana, Stanyajanana, Tvak prasādana, Vātahara, Vraṇaropaṇa, Vraṇaśodhana, Vṛṣya"
     },
     "important_formulations": "Nārāyaṇa Taila, Mahāmāra Taila, Bala Taila",
-    "therapeutic_uses": "Agnidagdha (Accidental burns), Ardita (Facial palsy), Bhagna (Fracture), Dantaśūla (Toothache), Kaṇḍu (Itching), Karṇaśūla (Otalgia), Kṛmi (Helminthiasis / Worm infestation), Mastiṣka (Brain tonic), Daurbalya (Weakness), Pakṣāghāta (Paralysis / Hemiplegia), Pūyameha (Gonorrhoea), Śiraḥśūla (Headache), Śūla (Pain), Vātavikāra (Disorders due to Vāta Doṣa), Vraṇa (Ulcer)",
+    "therapeutic_uses": "Agnidagdha, Ardita, Bhagna, Dantaśūla, Kaṇḍu, Karṇaśūla, Kṛmi, Mastiṣka, Daurbalya, Pakṣāghāta, Pūyameha, Śiraḥśūla, Śūla, Vātavikāra, Vraṇa",
     "dose": "5 to 20 ml.",
     "plant_family": "Pedaliaceae",
     "plant_subfamily": "N/A"
@@ -21230,7 +21230,7 @@
       "karma": "Dīpana, Lekhana, Pācana, Pratiduṣaka, Śleṣmaghna, Śūlaghna, Uttejaka, Vātanulomana, Vedanaśamaka, Viṣaghna"
     },
     "important_formulations": null,
-    "therapeutic_uses": "Ajīrṇa (Dyspepsia), Āmavāta (Rheumatism), Ānāha (Distension of abdomen due to obstruction to passage of urine and stool), Aṅkuśa kṛmi (Hookworms), Aruci (Tastelessness), Bālātisāra (Infantile diarrhoea), Chardi (Emesis), Dantaśūla (Toothache), Gulma (Abdominal lump), Kṛmi (Helminthiasis / Worm infestation), Mūtrakṛcchra (Dysuria), Plīhodara (Splenomegaly), Sandhiśūla, Śiraḥśūla (Headache), Tvakroga (Skin disease), Udara (Diseases of abdomen), Udaraśūla (Pain in the abdomen), Vātarśa (Dry piles), Visūcikā (Gastro-enteritis with piercing pain)",
+    "therapeutic_uses": "Ajīrṇa, Āmavāta, Ānāha, Aṅkuśa kṛmi, Aruci, Bālātisāra, Chardi, Dantaśūla, Gulma, Kṛmi, Mūtrakṛcchra, Plīhodara, Sandhiśūla, Śiraḥśūla, Tvakroga, Udara, Udaraśūla, Vātarśa, Visūcikā",
     "dose": "25 to 125 mg.",
     "plant_family": "Lamiaceae (Thymus vulgaris); Apiaceae (Trachyspermum ammi)",
     "plant_subfamily": "Nepetoideae; Apioideae"
